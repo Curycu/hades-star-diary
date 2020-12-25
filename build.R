@@ -57,36 +57,45 @@ for(a in 1:nrow(articles)){
   article.file <- articles[a, "file.name"] %>% .[[1]]
   article.image.files <- list.files(asset.dir, file.name.no.extension)
   
-  article.content <- readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% paste(collapse='<br/>')
+  article.text <- readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% paste(collapse='<br/>')
   
   # remove redundant md tags 
   # e.g) <br/>![](../assets/20201027_BS_Bond_Counter.png)
   # e.g) <br/>[youtube_video](https://youtu.be/TJeWz9vuZx8)<br/>
-  article.content <- str_replace_all(article.content, '(<br/>)?\\!?\\[.*?\\]\\(.*?\\)(<br/>)?', '')
+  article.text <- str_replace_all(article.text, '(<br/>)?\\!?\\[.*?\\]\\(.*?\\)(<br/>)?', '')
+  
+  image.exists <- length(article.image.files) > 0
+  text.exists <- str_trim(article.text) != ''
   
   article.html <- 
-    if(length(article.image.files) > 0){
+    if(image.exists & text.exists){
       image.html <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
       image.html <- paste(image.html, collapse='\n')
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
-          <br/>
-          {article.content}
-          <br/>
+          {article.text}
           {image.html}
-          <br/>
         </details>
       ')
-    }else{
+    }else if(!image.exists & text.exists){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
-          <br/>
-          {article.content}
-          <br/>
+          {article.text}
         </details>
       ')
+    }else if(image.exists & !text.exists){
+      image.html <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
+      image.html <- paste(image.html, collapse='\n')
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          {image.html}
+        </details>
+      ')
+    }else{
+      glue('- Day {day.gap} - {title}')
     }
     
   write(article.html, file=readme.file, append=TRUE)
