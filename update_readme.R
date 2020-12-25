@@ -11,7 +11,7 @@ installed.packages(packages.not.installed)
 # package load ===============
 for(p in packages.needed) require(p, character.only=TRUE)
 
-# build README.md ===============
+# write README.md ===============
 readme.file <- 'README.md'
 article.dir <- 'articles'
 asset.dir <- 'assets'
@@ -42,7 +42,7 @@ articles <-
 
 first.play.day <- '2020-06-29'
 
-# append article links ===============
+# append articles to README.md ===============
 for(a in 1:nrow(articles)){
   
   date.str <- articles[a, "date.str"] %>% .[[1]]
