@@ -62,8 +62,9 @@ for(a in 1:nrow(articles)){
       glue('  
       <details>
         <summary>
-          <a href="./articles/{article.file} target="_blank">Day {day.gap}: {title}</a>,
+          Day {day.gap}: {title},
         </summary>
+        <a href="./articles/{article.file} target="_blank">To Article...</a>
       </details>
       ')
     }else{
@@ -73,8 +74,9 @@ for(a in 1:nrow(articles)){
       glue('  
       <details>
         <summary>
-          <a href="./articles/{article.file} target="_blank">Day {day.gap}: {title}</a>,
+          Day {day.gap}: {title},
         </summary>
+        <a href="./articles/{article.file} target="_blank">To Article...</a>
         {article.preview.img.src}
       </details>
       ')
