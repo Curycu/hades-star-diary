@@ -68,6 +68,7 @@ for(a in 1:nrow(articles)){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
+          <br/>
           {article.content}
           <br/>
           {image.links}
@@ -77,6 +78,7 @@ for(a in 1:nrow(articles)){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
+          <br/>
           {article.content}
         </details>
       ')
