@@ -57,21 +57,22 @@ for(a in 1:nrow(articles)){
   article.file <- articles[a, "file.name"] %>% .[[1]]
   article.image.files <- list.files(asset.dir, file.name.no.extension)
   
-  article.content <- 
-    readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% 
-    paste(collapse='<br/>')
+  article.content <- readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% paste(collapse='<br/>')
+  article.content <- str_replace_all(article.content, '<br/>\\[.*?\\]\\(.*?\\)<br/>', '')
+  article.content <- str_replace_all(article.content, '<br/>\\!\\[\\]\\(.*?\\)', '')
   
-  article.link <- 
+  article.html <- 
     if(length(article.image.files) > 0){
-      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
-      image.links <- paste(image.links, collapse='\n')
+      image.html <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
+      image.html <- paste(image.html, collapse='\n')
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
           <br/>
           {article.content}
           <br/>
-          {image.links}
+          {image.html}
+          <br/>
         </details>
       ')
     }else{
@@ -80,9 +81,10 @@ for(a in 1:nrow(articles)){
           <summary>Day {day.gap} - {title}</summary>
           <br/>
           {article.content}
+          <br/>
         </details>
       ')
     }
     
-  write(article.link, file=readme.file, append=TRUE)
+  write(article.html, file=readme.file, append=TRUE)
 }
