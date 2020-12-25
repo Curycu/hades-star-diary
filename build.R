@@ -59,16 +59,17 @@ for(a in 1:nrow(articles)){
   
   article.content <- 
     readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% 
-    paste(collapse='\n')
+    paste(collapse='<br/>')
   
   article.link <- 
     if(length(article.image.files) > 0){
-      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}">'))
+      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
       image.links <- paste(image.links, collapse='\n')
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
           {article.content}
+          <br/>
           {image.links}
         </details>
       ')
