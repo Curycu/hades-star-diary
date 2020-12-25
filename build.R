@@ -15,7 +15,7 @@ for(p in packages.needed) require(p, character.only=TRUE)
 readme.file <- 'README.md'
 
 readme.base <- 
-"<div align='center'>
+  "<div align='center'>
   <img src='./assets/hades_logo.png' alt='logo'>
 </div>
 
