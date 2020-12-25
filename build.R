@@ -46,41 +46,13 @@ for(a in 1:nrow(articles)){
   date.str <- articles[a, "date.str"] %>% .[[1]]
   day.gap <- as.integer(as.Date(date.str) - as.Date(first.play.day) + 1)
   
-  article.file <- articles[a, "file.name"] %>% .[[1]]
-  
   title <- articles[a, "title"] %>% .[[1]]
   title <- str_replace_all(title, '_', ' ')
   title <- str_trim(title)
   title <- ifelse(title == '', 'No Title', title)
   
-  date.str.compact <- str_replace_all(date.str, '-', '')
-  title.underscore <- str_replace_all(title, ' ', '_')
-  article.previews <- list.files('./assets', glue('^{date.str.compact}_{title.underscore}'))
-  
-  article.link <- 
-    if(length(article.previews) == 0){
-      glue('  
-      <details>
-        <summary>
-          Day {day.gap}: {title},
-        </summary>
-        <a href="./articles/{article.file}" target="_blank">To Article...</a>
-      </details>
-      ')
-    }else{
-      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x}">'))
-      article.preview.img.src <- paste0(article.preview.img.src, collapse='\n  ')
-      
-      glue('  
-      <details>
-        <summary>
-          Day {day.gap}: {title},
-        </summary>
-        <a href="./articles/{article.file}" target="_blank">To Article...</a>
-        {article.preview.img.src}
-      </details>
-      ')
-    }
-  
+  article.file <- articles[a, "file.name"] %>% .[[1]]
+  article.link <- glue('[Day {day.gap}: {title}](./articles/{article.file})')
+    
   write(article.link, file=readme.file, append=TRUE)
 }
