@@ -1,1 +1,1 @@
-initial day at Hades' Galaxy :dizzy:
+하데스 은하계 진입 1일차 :dizzy:
