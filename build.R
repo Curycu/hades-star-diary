@@ -64,11 +64,11 @@ for(a in 1:nrow(articles)){
         <summary>
           Day {day.gap}: {title},
         </summary>
-        <a href="./articles/{article.file} target="_blank">To Article...</a>
+        <a href="./articles/{article.file}" target="_blank">To Article...</a>
       </details>
       ')
     }else{
-      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x} alt="preview">'))
+      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x}">'))
       article.preview.img.src <- paste0(article.preview.img.src, collapse='\n  ')
       
       glue('  
@@ -76,7 +76,7 @@ for(a in 1:nrow(articles)){
         <summary>
           Day {day.gap}: {title},
         </summary>
-        <a href="./articles/{article.file} target="_blank">To Article...</a>
+        <a href="./articles/{article.file}" target="_blank">To Article...</a>
         {article.preview.img.src}
       </details>
       ')
