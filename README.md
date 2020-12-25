@@ -115,9 +115,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :dizzy:
   <summary>
     <a href="./articles/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base.md target="_blank">Day 2: Lv1 Battleship vs Weak Cerberus Base</a>,
   </summary>
-  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_01.jpg alt="preview">
-  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_02.jpg alt="preview">
-  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_03.jpg alt="preview">
+  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_01.jpg">
+  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_02.jpg">
+  <img src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base_03.jpg">
 </details>
 <details>
   <summary>
