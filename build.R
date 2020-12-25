@@ -13,6 +13,8 @@ for(p in packages.needed) require(p, character.only=TRUE)
 
 # build README.md ===============
 readme.file <- 'README.md'
+article.dir <- 'articles'
+asset.dir <- 'assets'
 
 readme.base <- 
   "<div align='center'>
@@ -27,7 +29,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 write(readme.base, file=readme.file)
 
 articles <- 
-  list.files('articles') %>% 
+  list.files(article.dir) %>% 
   tibble(file.name = .) %>% 
   mutate(
     year = substring(file.name, 1, 4),
@@ -51,8 +53,33 @@ for(a in 1:nrow(articles)){
   title <- str_trim(title)
   title <- ifelse(title == '', 'No Title', title)
   
+  file.name.no.extension <- articles[a, 'file.name'] %>% str_remove('.md')
   article.file <- articles[a, "file.name"] %>% .[[1]]
-  article.link <- glue('- [Day {day.gap} - {title}](./articles/{article.file})')
+  article.image.files <- list.files(asset.dir, file.name.no.extension)
+  
+  article.content <- 
+    readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% 
+    paste(collapse='\n')
+  
+  article.link <- 
+    if(length(article.image.files) > 0){
+      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}{x}">'))
+      image.links <- paste(image.links, collapse='\n')
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          {article.content}
+          {image.links}
+        </details>
+      ')
+    }else{
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          {article.content}
+        </details>
+      ')
+    }
     
   write(article.link, file=readme.file, append=TRUE)
 }
