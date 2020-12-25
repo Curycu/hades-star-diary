@@ -53,32 +53,7 @@ for(a in 1:nrow(articles)){
   title <- str_trim(title)
   title <- ifelse(title == '', 'No Title', title)
   
-  date.str.compact <- str_replace_all(date.str, '-', '')
-  title.underscore <- str_replace_all(title, ' ', '_')
-  article.previews <- list.files('./assets', glue('^{date.str.compact}_{title.underscore}'))
-  
-  article.link <- 
-    if(length(article.previews) == 0){
-      glue('  
-      <details>
-        <summary>
-          <a href="./articles/{article.file} target="_blank">Day {day.gap}: {title}</a>,
-        </summary>
-      </details>
-      ')
-    }else{
-      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x}">'))
-      article.preview.img.src <- paste0(article.preview.img.src, collapse='\n  ')
-      
-      glue('  
-      <details>
-        <summary>
-          <a href="./articles/{article.file} target="_blank">Day {day.gap}: {title}</a>,
-        </summary>
-        {article.preview.img.src}
-      </details>
-      ')
-    }
+  article.link <- glue('<a href="./articles/{article.file} target="_blank">Day {day.gap}: {title}</a>')
   
   write(article.link, file=readme.file, append=TRUE)
 }
