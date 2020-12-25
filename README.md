@@ -3,7 +3,7 @@
 </div>
 
 # Hades' Star Diary
-Diary for [Hades' Star](https://store.steampowered.com/app/755800) :dizzy:
+Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_planet:
 
 # Table of Contents
 - [Day 180: No Title](./articles/20201225.md)
