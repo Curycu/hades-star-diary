@@ -52,7 +52,7 @@ for(a in 1:nrow(articles)){
   title <- ifelse(title == '', 'No Title', title)
   
   article.file <- articles[a, "file.name"] %>% .[[1]]
-  article.link <- glue('- [Day {day.gap}: {title}](./articles/{article.file})')
+  article.link <- glue('- [Day {day.gap} - {title}](./articles/{article.file})')
     
   write(article.link, file=readme.file, append=TRUE)
 }
