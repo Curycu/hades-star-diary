@@ -60,14 +60,12 @@ for(a in 1:nrow(articles)){
   article.content <- readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% paste(collapse='<br/>')
   
   # remove redundant md tags 
-  # e.g) [youtube_video](https://youtu.be/TJeWz9vuZx8)
-  article.content <- str_replace_all(article.content, '<br/>\\[.*?\\]\\(.*?\\)<br/>', '') 
-  article.content <- str_replace_all(article.content, '\\[.*?\\]\\(.*?\\)', '') 
-  
-  # remove redundant md tags 
   # e.g) ![](../assets/20201023_Discover_Planet_Orange.png)
   article.content <- str_replace_all(article.content, '<br/>\\!\\[\\]\\(.*?\\)', '') 
   article.content <- str_replace_all(article.content, '\\!\\[\\]\\(.*?\\)', '') 
+  # e.g) [youtube_video](https://youtu.be/TJeWz9vuZx8)
+  article.content <- str_replace_all(article.content, '<br/>\\[.*?\\]\\(.*?\\)<br/>', '') 
+  article.content <- str_replace_all(article.content, '\\[.*?\\]\\(.*?\\)', '') 
   
   article.html <- 
     if(length(article.image.files) > 0){
