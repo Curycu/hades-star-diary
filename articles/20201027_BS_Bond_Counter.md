@@ -1,0 +1,6 @@
+청색성단 6전함, 5전함, 외톨이 2대 매칭...  
+마지막 상대 5끈이라 반쯤 포기하고 있었는데 맞끈 카운터로 어찌어찌 기적적 승리...  
+
+[youtube_video](https://youtu.be/TJeWz9vuZx8)
+
+![](../assets/20201027_BS_Bond_Counter.png)
