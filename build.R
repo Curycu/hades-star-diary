@@ -63,7 +63,7 @@ for(a in 1:nrow(articles)){
   
   article.link <- 
     if(length(article.image.files) > 0){
-      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}{x}">'))
+      image.links <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}">'))
       image.links <- paste(image.links, collapse='\n')
       glue('
         <details>

@@ -17,7 +17,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     명성 20000 달성!!  
 
 ![](../assets/20201222_Fame_20K.png)
-    <image src="./assets20201222_Fame_20K.png">
+    <image src="./assets/20201222_Fame_20K.png">
   </details>
   <details>
     <summary>Day 176 - Six Planets Aligned</summary>
@@ -25,7 +25,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 별들이 제자리를 찾았으니 이제 위대한 옛 존재들이 깨어난다...  
 
 ![](../assets/20201221_Six_Planets_Aligned.png)
-    <image src="./assets20201221_Six_Planets_Aligned.png">
+    <image src="./assets/20201221_Six_Planets_Aligned.png">
   </details>
   <details>
     <summary>Day 172 - Lv5 Barrier</summary>
@@ -33,7 +33,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 이제 나도 넓다!  
 
 ![](../assets/20201217_Lv5_Barrier.png)
-    <image src="./assets20201217_Lv5_Barrier.png">
+    <image src="./assets/20201217_Lv5_Barrier.png">
   </details>
   <details>
     <summary>Day 172 - No Santuary TS in RS8 Battlefield</summary>
@@ -43,12 +43,12 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 [youtube video](https://youtu.be/KW7218PDH0E)
 
 ![](../assets/20201217_No_Santuary_TS_in_RS8_Battlefield.png)
-    <image src="./assets20201217_No_Santuary_TS_in_RS8_Battlefield.png">
+    <image src="./assets/20201217_No_Santuary_TS_in_RS8_Battlefield.png">
   </details>
   <details>
     <summary>Day 161 - No Warp Lane Cross Section Shipment Drone</summary>
     ![](../assets/20201206_No_Warp_Lane_Cross_Section_Shipment_Drone.png)
-    <image src="./assets20201206_No_Warp_Lane_Cross_Section_Shipment_Drone.png">
+    <image src="./assets/20201206_No_Warp_Lane_Cross_Section_Shipment_Drone.png">
   </details>
   <details>
     <summary>Day 160 - BS Low Queue Matching</summary>
@@ -62,7 +62,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 그냥 썩혀둔 화포 6렙 패시브실드 5렙 쓰고 로우큐 매칭하는게 정신건강에 더 나을 수도...  
 
 ![](../assets/20201205_BS_Low_Queue_Matching.png)
-    <image src="./assets20201205_BS_Low_Queue_Matching.png">
+    <image src="./assets/20201205_BS_Low_Queue_Matching.png">
   </details>
   <details>
     <summary>Day 158 - Lv5 Battleship Chickenship</summary>
@@ -70,7 +70,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 드디어 다시 재활용 모듈을 설치!!  
 
 ![](../assets/20201203_Lv5_Battleship_Chickenship.jpg)
-    <image src="./assets20201203_Lv5_Battleship_Chickenship.jpg">
+    <image src="./assets/20201203_Lv5_Battleship_Chickenship.jpg">
   </details>
   <details>
     <summary>Day 157 - Planet Poison with 2020 03 Update</summary>
@@ -81,7 +81,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 망...  
 
 ![](../assets/20201202_Planet_Poison_with_2020_03_Update.png)
-    <image src="./assets20201202_Planet_Poison_with_2020_03_Update.png">
+    <image src="./assets/20201202_Planet_Poison_with_2020_03_Update.png">
   </details>
   <details>
     <summary>Day 155 - Five Planets Aligned</summary>
@@ -90,7 +90,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 수송효율 똥망 :poop:  
 
 ![](../assets/20201130_Five_Planets_Aligned.png)
-    <image src="./assets20201130_Five_Planets_Aligned.png">
+    <image src="./assets/20201130_Five_Planets_Aligned.png">
   </details>
   <details>
     <summary>Day 152 - Kill The Pheonix</summary>
@@ -102,7 +102,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 1주일 후엔 다시 재활용 끼는 걸로 ㅠㅠㅠ  
 
 ![](../assets/20201127_Kill_The_Pheonix.png)
-    <image src="./assets20201127_Kill_The_Pheonix.png">
+    <image src="./assets/20201127_Kill_The_Pheonix.png">
   </details>
   <details>
     <summary>Day 151 - First RS8</summary>
@@ -110,7 +110,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 445 포포대 조합으로 피닉스 잡기 실패 ㅠ...  
 
 ![](../assets/20201126_First_RS8.jpg)
-    <image src="./assets20201126_First_RS8.jpg">
+    <image src="./assets/20201126_First_RS8.jpg">
   </details>
   <details>
     <summary>Day 149 - Change Weapons</summary>
@@ -124,7 +124,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 수소 부족 청성으로 메꿀 땐 주의 :tired_face:  
 
 ![](../assets/20201121_Out_of_Fuel_in_BS.png)
-    <image src="./assets20201121_Out_of_Fuel_in_BS.png">
+    <image src="./assets/20201121_Out_of_Fuel_in_BS.png">
   </details>
   <details>
     <summary>Day 146 - Zero Fuel Return Success</summary>
@@ -132,12 +132,12 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 소문으로만 괜찮다고 듣고 해보긴 처음이라 두근두근...  
 
 ![](../assets/20201121_Zero_Fuel_Return_Success.jpg)
-    <image src="./assets20201121_Zero_Fuel_Return_Success.jpg">
+    <image src="./assets/20201121_Zero_Fuel_Return_Success.jpg">
   </details>
   <details>
     <summary>Day 145 - Rush to Planet Terra</summary>
     ![](../assets/20201120_Rush_to_Planet_Terra.png)
-    <image src="./assets20201120_Rush_to_Planet_Terra.png">
+    <image src="./assets/20201120_Rush_to_Planet_Terra.png">
   </details>
   <details>
     <summary>Day 142 - Credit Cap 2M</summary>
@@ -153,7 +153,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 1일 이용료 6660 수소  
 
 ![](../assets/20201106_Warp_Lane_Triangle.png)
-    <image src="./assets20201106_Warp_Lane_Triangle.png">
+    <image src="./assets/20201106_Warp_Lane_Triangle.png">
   </details>
   <details>
     <summary>Day 121 - BS Bond Counter</summary>
@@ -163,17 +163,17 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 [youtube_video](https://youtu.be/TJeWz9vuZx8)
 
 ![](../assets/20201027_BS_Bond_Counter.png)
-    <image src="./assets20201027_BS_Bond_Counter.png">
+    <image src="./assets/20201027_BS_Bond_Counter.png">
   </details>
   <details>
     <summary>Day 117 - Discover Planet Orange</summary>
     ![](../assets/20201023_Discover_Planet_Orange.png)
-    <image src="./assets20201023_Discover_Planet_Orange.png">
+    <image src="./assets/20201023_Discover_Planet_Orange.png">
   </details>
   <details>
     <summary>Day 109 - Discover Planet Ocean</summary>
     ![](../assets/20201015_Discover_Planet_Ocean.png)
-    <image src="./assets20201015_Discover_Planet_Ocean.png">
+    <image src="./assets/20201015_Discover_Planet_Ocean.png">
   </details>
   <details>
     <summary>Day 106 - First RS7</summary>
@@ -195,52 +195,52 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     워프레인허브 본격 증설 시작...  
 
 ![](../assets/20201001_Warp_Lane_Rules.jpg)
-    <image src="./assets20201001_Warp_Lane_Rules.jpg">
+    <image src="./assets/20201001_Warp_Lane_Rules.jpg">
   </details>
   <details>
     <summary>Day 87 - Lv100</summary>
     레벨 100 달성!
 
 ![](../assets/20200923_Lv100.jpg)
-    <image src="./assets20200923_Lv100.jpg">
+    <image src="./assets/20200923_Lv100.jpg">
   </details>
   <details>
     <summary>Day 78 - Favorite Planet Rose</summary>
     내가 제일 좋아하는 행성... 색이 아주 마음에 든다  
 
 ![](../assets/20200914_Favorite_Planet_Rose.png)
-    <image src="./assets20200914_Favorite_Planet_Rose.png">
+    <image src="./assets/20200914_Favorite_Planet_Rose.png">
   </details>
   <details>
     <summary>Day 57 - WS Battle</summary>
     처음 들어간 코퍼레이션인 토끼풀에서 백색성단 뛸 당시...  
 
 ![](../assets/20200824_WS_Battle.jpg)
-    <image src="./assets20200824_WS_Battle.jpg">
+    <image src="./assets/20200824_WS_Battle.jpg">
   </details>
   <details>
     <summary>Day 54 - kst2410 Joined</summary>
     친구를 꼬셔서 게임 시작... 수소 약탈을 자주하러 감 =_=ㅋ  
 
 ![](../assets/20200821_kst2410_Joined.jpg)
-    <image src="./assets20200821_kst2410_Joined.jpg">
+    <image src="./assets/20200821_kst2410_Joined.jpg">
   </details>
   <details>
     <summary>Day 41 - First Warp Lane Hub</summary>
     ![](../assets/20200808_First_Warp_Lane_Hub.png)
-    <image src="./assets20200808_First_Warp_Lane_Hub.png">
+    <image src="./assets/20200808_First_Warp_Lane_Hub.png">
   </details>
   <details>
     <summary>Day 30 - Discover Planet Alien</summary>
     ![](../assets/20200728_Discover_Planet_Alien.png)
-    <image src="./assets20200728_Discover_Planet_Alien.png">
+    <image src="./assets/20200728_Discover_Planet_Alien.png">
   </details>
   <details>
     <summary>Day 2 - Lv1 Battleship vs Weak Cerberus Base</summary>
     꼬물이 1렙 전함으로 잘도 터트렸네... 실드도 알파실드 1렙이었는데 =_=a  
 
 ![](../assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base.jpg)
-    <image src="./assets20200630_Lv1_Battleship_vs_Weak_Cerberus_Base.jpg">
+    <image src="./assets/20200630_Lv1_Battleship_vs_Weak_Cerberus_Base.jpg">
   </details>
   <details>
     <summary>Day 1 - First Day at Hades Galaxy</summary>
