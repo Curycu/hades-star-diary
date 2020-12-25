@@ -74,7 +74,7 @@ for(a in 1:nrow(articles)){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
-          {article.text}
+          <br/>{article.text}<br/>
           {image.html}
         </details>
       ')
@@ -82,7 +82,7 @@ for(a in 1:nrow(articles)){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
-          {article.text}
+          <br/>{article.text}<br/>
         </details>
       ')
     }else if(image.exists & !text.exists){
