@@ -22,7 +22,8 @@ readme.base <-
 </div>
 
 # Hades' Star Diary
-Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_planet:
+Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_planet:  
+[Discord for KR users](http://discord.gg/TR5CJ2p)
 
 # Table of Contents"
 
