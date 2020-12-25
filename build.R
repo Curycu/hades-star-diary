@@ -67,7 +67,7 @@ for(a in 1:nrow(articles)){
       </details>
       ')
     }else{
-      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x}">'))
+      article.preview.img.src <- sapply(article.previews, function(x) glue('<img src="./assets/{x} alt="preview">'))
       article.preview.img.src <- paste0(article.preview.img.src, collapse='\n  ')
       
       glue('  
