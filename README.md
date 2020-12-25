@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./assets/hades_logo.png' alt='logo'>
+  <img src='./assets/logo.png' alt='logo'>
 </div>
 
 # Hades' Star Diary
