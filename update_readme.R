@@ -63,10 +63,14 @@ for(a in 1:nrow(articles)){
   text.exists <- article.text != ''
   image.exists <- length(article.image.files) > 0
   
+  image.html <- ''
+  if(image.exists){
+    image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
+    image.html <- paste(image.html, collapse='<br/>')
+  }
+  
   article.html <- 
     if(image.exists & text.exists){
-      image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
-      image.html <- paste(image.html, collapse='\n')
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
@@ -82,8 +86,6 @@ for(a in 1:nrow(articles)){
         </details>
       ')
     }else if(image.exists & !text.exists){
-      image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
-      image.html <- paste(image.html, collapse='\n')
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
