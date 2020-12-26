@@ -13,11 +13,12 @@ for(p in packages.needed) require(p, character.only=TRUE)
 
 # write README.md ===============
 readme.file <- 'README.md'
-article.dir <- 'articles'
-asset.dir <- 'assets'
+articles.dir <- 'articles'
+assets.dir <- 'assets'
+first.play.day <- '2020-06-29'
 
 readme.base <- 
-  "<div align='center'>
+"<div align='center'>
   <img src='./assets/logo.png' alt='logo'>
 </div>
 
@@ -30,74 +31,54 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 write(readme.base, file=readme.file)
 
 articles <- 
-  list.files(article.dir) %>% 
+  list.files(articles.dir) %>% 
   tibble(file.name = .) %>% 
   mutate(
-    year = substring(file.name, 1, 4),
-    month = substring(file.name, 5, 6),
-    day = substring(file.name, 7, 8),
-    title = str_replace_all(file.name, '\\.md', '') %>% str_replace_all('^\\d{8}', ''),
-    date.str = paste(year, month, day, sep='-')
+    file.name.no.extension = file.name %>% str_remove('\\.md$'),
+    title = file.name.no.extension %>% str_remove('^\\d{8}') %>% str_remove('^_') %>% str_trim,
+    title = ifelse(title == '', 'No Title', title),
+    date.str = paste(substring(file.name, 1, 4), substring(file.name, 5, 6), substring(file.name, 7, 8), sep='-')
   ) %>%
   arrange(desc(date.str))
-
-first.play.day <- '2020-06-29'
 
 # append articles to README.md ===============
 for(a in 1:nrow(articles)){
   
   date.str <- articles[a, "date.str"] %>% .[[1]]
-  day.gap <- as.integer(as.Date(date.str) - as.Date(first.play.day) + 1)
+  day.gap <- (as.Date(date.str) - as.Date(first.play.day) + 1) %>% as.integer
   
   title <- articles[a, "title"] %>% .[[1]]
-  title <- str_replace_all(title, '_', ' ')
-  title <- str_trim(title)
-  title <- ifelse(title == '', 'No Title', title)
+  file.name.no.extension <- articles[a, 'file.name.no.extension'] %>% str_remove('.md')
   
-  file.name.no.extension <- articles[a, 'file.name'] %>% str_remove('.md')
   article.file <- articles[a, "file.name"] %>% .[[1]]
-  article.image.files <- list.files(asset.dir, file.name.no.extension)
+  article.image.files <- list.files(assets.dir, file.name.no.extension)
   
-  article.text <- readLines(glue('./{article.dir}/{article.file}'), encoding='UTF-8') %>% paste(collapse='<br/>')
+  article.text.raw <- glue('./{articles.dir}/{article.file}') %>% readLines(encoding='UTF-8') %>% paste(collapse='<br/>')
   
-  # remove redundant md tags 
+  # remove redundant md image src, a href tags 
   # e.g) <br/>![](../assets/20201027_BS_Bond_Counter.png)
   # e.g) <br/>[youtube_video](https://youtu.be/TJeWz9vuZx8)<br/>
-  article.text <- str_replace_all(article.text, '(<br/>)?\\!?\\[.*?\\]\\(.*?\\)(<br/>)?', '')
+  article.text <- article.text.raw %>% str_replace_all('(<br/>)?\\!+\\[.*?\\]\\(.*?\\)(<br/>)?', '') %>% str_trim
   
+  text.exists <- article.text != ''
   image.exists <- length(article.image.files) > 0
-  text.exists <- str_trim(article.text) != ''
   
-  article.html <- 
-    if(image.exists & text.exists){
-      image.html <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
-      image.html <- paste(image.html, collapse='\n')
-      glue('
-        <details>
-          <summary>Day {day.gap} - {title}</summary>
-          <br/>{article.text}<br/>
-          {image.html}
-        </details>
-      ')
-    }else if(!image.exists & text.exists){
-      glue('
-        <details>
-          <summary>Day {day.gap} - {title}</summary>
-          <br/>{article.text}<br/>
-        </details>
-      ')
-    }else if(image.exists & !text.exists){
-      image.html <- sapply(article.image.files, function(x) glue('<image src="./{asset.dir}/{x}" align="center">'))
-      image.html <- paste(image.html, collapse='\n')
-      glue('
-        <details>
-          <summary>Day {day.gap} - {title}</summary>
-          {image.html}
-        </details>
-      ')
-    }else{
-      glue('- Day {day.gap} - {title}')
-    }
+  article.html <- glue('<details><br/><summary>Day {day.gap} - {title}</summary>')
+  
+  article.html <- if(text.exists){
+    article.html %>% paste(glue('<br/>{article.text}'), sep='')
+  }
+  
+  article.html <- if(image.exists){
+    image.html <- 
+      article.image.files %>% 
+      sapply(function(x) glue("<image src='./{assets.dir}/{x}' align='center'>")) %>%
+      paste(collapse='')
     
-  write(article.html, file=readme.file, append=TRUE)
+    article.html %>% paste(glue('<br/>{image.html}'), sep='')
+  }
+  
+  article.html <- article.html %>% paste(glue('<br/></details>', sep=''))
+    
+  article.html %>% write(file=readme.file, append=TRUE)
 }
