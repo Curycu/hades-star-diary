@@ -63,22 +63,36 @@ for(a in 1:nrow(articles)){
   text.exists <- article.text != ''
   image.exists <- length(article.image.files) > 0
   
-  article.html <- glue('<details><br/><summary>Day {day.gap} - {title}</summary>')
+  article.html <- 
+    if(image.exists & text.exists){
+      image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
+      image.html <- paste(image.html, collapse='\n')
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          <br/>{article.text}<br/>
+          {image.html}
+        </details>
+      ')
+    }else if(!image.exists & text.exists){
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          <br/>{article.text}<br/>
+        </details>
+      ')
+    }else if(image.exists & !text.exists){
+      image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
+      image.html <- paste(image.html, collapse='\n')
+      glue('
+        <details>
+          <summary>Day {day.gap} - {title}</summary>
+          {image.html}
+        </details>
+      ')
+    }else{
+      glue('- Day {day.gap} - {title}')
+    }
   
-  article.html <- if(text.exists){
-    article.html %>% paste(glue('<br/>{article.text}'), sep='')
-  }
-  
-  article.html <- if(image.exists){
-    image.html <- 
-      article.image.files %>% 
-      sapply(function(x) glue("<image src='./{assets.dir}/{x}' align='center'>")) %>%
-      paste(collapse='')
-    
-    article.html %>% paste(glue('<br/>{image.html}'), sep='')
-  }
-  
-  article.html <- article.html %>% paste(glue('<br/></details>', sep=''))
-    
   article.html %>% write(file=readme.file, append=TRUE)
 }
