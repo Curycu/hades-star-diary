@@ -48,7 +48,7 @@ for(a in 1:nrow(articles)){
   day.gap <- (as.Date(date.str) - as.Date(first.play.day) + 1) %>% as.integer
   
   title <- articles[a, "title"] %>% .[[1]]
-  file.name.no.extension <- articles[a, 'file.name.no.extension'] %>% str_remove('.md')
+  file.name.no.extension <- articles[a, 'file.name.no.extension'] %>% .[[1]]
   
   article.file <- articles[a, "file.name"] %>% .[[1]]
   article.image.files <- list.files(assets.dir, file.name.no.extension)
