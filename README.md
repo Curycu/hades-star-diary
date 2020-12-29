@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 184 - BS_Dogfight</summary>
-    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆 자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/>  <br/>[](https://youtu.be/cs4y964ui7I)<br/>
+    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째 판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째 판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/><br/>[](https://youtu.be/cs4y964ui7I)<br/>
     <image src="./assets/20201229_BS_Dogfight.jpg" align="center">
   </details>
   <details>
