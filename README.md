@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 184 - BS_Dogfight</summary>
+    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆 자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/>  <br/>[](https://youtu.be/cs4y964ui7I)<br/>
+    <image src="./assets/20201229_BS_Dogfight.jpg" align="center">
+  </details>
+  <details>
+    <summary>Day 184 - United_Ships</summary>
+    <br/>부계로 5적 공적 뛰다가 목격한 명장면...  <br/>뭉쳐야 산다...!  <br/><br/>
+    <image src="./assets/20201229_United_Ships_01.jpg" align="center"><br/><image src="./assets/20201229_United_Ships_02.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 182 - Logistics_Strategy</summary>
     <br/># 수송품 드론 + 릴레이 수송 요약  <br/><br/>1. 수송품 목적지는 각 행성 & 위성 & 교역정거장 1/N 확률인듯 (체감)  <br/>  - 그렇다면 15렙 사막행성 (위성 2개) > 15렙 불행성 (위성 1개) = 15렙 바다행성 (위성 1개) > 나머지 행성 순으로 수송품 목적지가 많다  <br/><br/>2. 수송품 드론 보너스 %를 늘리려면 같은 목적지 수송품을 한 곳에 모아두는 것이 좋다  <br/>  - 50렙 행성들은 저장용량이 큰 편이라 수송품을 모아두는 역할에 딱이다  <br/>  - 50렙 행성들에 워프레인허브 연결된 목적지들을 분배한다  <br/>  - 참고로 행성의 수송품 최대 저장량은 수송품이 생산되는 최대량의 2배다 (50렙 가스행성은 40개 생산되므로 80개 저장가능)  <br/><br/>3. 워프레인허브 연결된 섹터가 아닌 곳으로 가는 수송품들은 몰아놓고 릴레이행  <br/><br/>4. 교역정거장들은 행성에 최대한 가까이 붙여 수소를 절약할 것...!  <br/>  - 안타깝게도 행성 있는 섹터 안쪽에는 들어갈 수 없어 섹터 끝에 최대한 붙여놓는 게 한계다  <br/><br/>5. 주황색 : 목적지 ID, 노란색 : 모아놓는 장소, 하늘색 : 모아놓고 릴레이  <br/><br/>
     <image src="./assets/20201227_Logistics_Strategy.png" align="center">
