@@ -12,9 +12,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <br/>300만 클캡 :kissing_heart:<br/>
   </details>
   <details>
-    <summary>Day 189 - Lv25_Lv25_Glitter_Ring</summary>
+    <summary>Day 189 - Lv25_Glitter_Ring</summary>
     <br/>레벨 25가 되자 링에 반짝이가 뿌려짐 :ringed_planet: :sparkles:  <br/><br/>
-    <image src="./assets/20210103_Lv25_Lv25_Glitter_Ring.png" align="center">
+    <image src="./assets/20210103_Lv25_Glitter_Ring.png" align="center">
   </details>
   <details>
     <summary>Day 188 - Destiny_vs_Vengeance</summary>
