@@ -8,6 +8,15 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 190 - Credit_Cap_3M</summary>
+    <br/>300만 클캡 :kissing_heart:<br/>
+  </details>
+  <details>
+    <summary>Day 189 - Lv25_Glitter_Ring</summary>
+    <br/>레벨 25가 되자 링에 반짝이가 뿌려짐 :ringed_planet: :sparkles:  <br/><br/>
+    <image src="./assets/20210103_Lv25_Glitter_Ring.png" align="center">
+  </details>
+  <details>
     <summary>Day 188 - Destiny_vs_Vengeance</summary>
     <br/>운명 함선에 복수 쓰려는 분이 계셔서 교훈을 드렸음 :kissing_heart:  <br/><br/>[](https://www.youtube.com/watch?v=VhcXbJYl2E4)<br/>
     <image src="./assets/20210102_Destiny_vs_Vengeance.jpg" align="center">

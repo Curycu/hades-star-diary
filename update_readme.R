@@ -2,7 +2,7 @@ rm(list=ls())
 
 # initial setting ===============
 packages.needed <- c('dplyr', 'stringr', 'glue')
-packages.installed <- installed.packages() %>% rownames()
+packages.installed <- rownames(installed.packages())
 packages.not.installed <- packages.needed[!packages.needed %in% packages.installed]
 
 # package install ===============
