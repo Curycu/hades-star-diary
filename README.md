@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 194 - Emp_at_Last_Second</summary>
+    <br/>디스트로이어 행성파괴 1초 남겨두고 잡는 기분...!!  <br/>하데스스타 게임 플레이가 전반적으로 느- 린 편이긴한데  <br/>7렙 이상 적색성단들에서는 제법 긴박하다...  <br/><br/>[youtube video](https://www.youtube.com/watch?v=Is1tyYsdiUA)  <br/><br/>
+    <image src="./assets/20210108_Emp_at_Last_Second.png" align="center">
+  </details>
+  <details>
+    <summary>Day 193 - Discover_Planet_Opal</summary>
+    <br/>새로운 행성의 발견과 동시에 집 정리...  <br/>홈 경기에서는 전함 수 제한이 없어 아주 가뿐하다~  <br/><br/>"... 포격 맛 좀 볼래?"  <br/><br/>[youtube video](https://www.youtube.com/watch?v=hoBCpJ7jJRs)  <br/><br/>
+    <image src="./assets/20210107_Discover_Planet_Opal.png" align="center">
+  </details>
+  <details>
     <summary>Day 192 - Dispatch_TS</summary>
     <br/>모든 수송선에 발송 설치 후 실전 투입...!  <br/>발송 1렙이 예열시간은 좀 걸리지만 (유물 6개면 24초*6개 = 144초 = 2분 24초)  <br/>수소 소비량이 1,000으로 가장 착해서 유지할 예정!  <br/>발송으로 가고 텔로 돌아오는 아주 바람직한 그림...  <br/><br/>그러니 제발 터지지만 말아줘 :sob:  <br/>복구비는 1대 당 112,500 클딧 (...)  <br/><br/>
     <image src="./assets/20210106_Dispatch_TS.jpg" align="center">
