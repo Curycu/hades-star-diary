@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 192 - Dispatch_TS</summary>
+    <br/>모든 수송선에 발송 설치 후 실전 투입...!  <br/>발송 1렙이 예열시간은 좀 걸리지만 (유물 6개면 24초*6개 = 144초 = 2분 24초)  <br/>수소 소비량이 1,000으로 가장 착해서 유지할 예정!  <br/>발송으로 가고 텔로 돌아오는 아주 바람직한 그림...  <br/><br/>그러니 제발 터지지만 말아줘 :sob:  <br/>복구비는 1대 당 112,500 클딧 (...)  <br/><br/>
+    <image src="./assets/20210106_Dispatch_TS.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 190 - Credit_Cap_3M</summary>
     <br/>300만 클캡 :kissing_heart:<br/>
   </details>
