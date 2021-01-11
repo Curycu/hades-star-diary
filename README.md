@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 197 - Salvage_Bug</summary>
+    <br/>황색성단에서 힐섹터를 만들었는데...  <br/>왜 옆 섹터에서 터져도 피가 차는걸까 =_=?  <br/><br/>[youtube video](https://www.youtube.com/watch?v=pqmCUCXy79s)  <br/><br/>
+    <image src="./assets/20210111_Salvage_Bug.png" align="center">
+  </details>
+  <details>
+    <summary>Day 197 - Thin_Blast_Shield</summary>
+    <br/>꿀광 캐는 김에 1행도 밀고 유물 캐오자... 로 시작된 비극...  <br/>옆집 디스트로이어가 놀러왔고 3렙 블실은 수송선 5대에 전함 3대까지 감싸기엔 너무 얇았고...  <br/>결국 수송선 5대가 터지는 비극으로 마무리...  <br/>발송 모듈까지 달아 총 손해는 약 112,500 * 5대 = 562,500 클딧  <br/>대략 0.7일의 수입을 손해보았다 ㅠ.ㅠ...  <br/><br/>[youtube video](https://www.youtube.com/watch?v=KfxtjN9HZPc)  <br/><br/>
+    <image src="./assets/20210111_Thin_Blast_Shield.png" align="center">
+  </details>
+  <details>
     <summary>Day 194 - Emp_at_Last_Second</summary>
     <br/>디스트로이어 행성파괴 1초 남겨두고 잡는 기분...!!  <br/>하데스스타 게임 플레이가 전반적으로 느- 린 편이긴한데  <br/>7렙 이상 적색성단들에서는 제법 긴박하다...  <br/><br/>[youtube video](https://www.youtube.com/watch?v=Is1tyYsdiUA)  <br/><br/>
     <image src="./assets/20210108_Emp_at_Last_Second.png" align="center">
