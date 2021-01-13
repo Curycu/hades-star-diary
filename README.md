@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 199 - TS_24_Ton_Cargo</summary>
+    <br/>드디어 수송선 24톤 달성!  <br/>8적 2개씩, 6적 3개씩 콜~!  <br/>수소 절약의 시작...!!!  <br/><br/>
+    <image src="./assets/20210113_TS_24_Ton_Cargo.png" align="center">
+  </details>
+  <details>
     <summary>Day 197 - Salvage_Bug</summary>
     <br/>황색성단에서 힐섹터를 만들었는데...  <br/>왜 옆 섹터에서 터져도 피가 차는걸까 =_=?  <br/><br/>[youtube video](https://www.youtube.com/watch?v=pqmCUCXy79s)  <br/><br/>
     <image src="./assets/20210111_Salvage_Bug.png" align="center">
