@@ -72,7 +72,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 177 - Fame_20K</summary>
-    <br/>명성 20000 달성!!  <br/><br/>
+    <br/>명성 20,000 달성!!  <br/><br/>
     <image src="./assets/20201222_Fame_20K.png" align="center">
   </details>
   <details>
@@ -89,6 +89,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 172 - No_Santuary_TS_in_RS8_Battlefield</summary>
     <br/>콜로와 봄버의 맹공 사이에서 노안식 수송선으로 유물을 빼먹는 이 스릴...  <br/>가히 불닭볶음면 같은 중독성이 있다...  <br/><br/>[youtube video](https://youtu.be/KW7218PDH0E)<br/><br/>
     <image src="./assets/20201217_No_Santuary_TS_in_RS8_Battlefield.png" align="center">
+  </details>
+  <details>
+    <summary>Day 169 - RS_Solo_Event</summary>
+    <br/>아몰라님이 주최하신 솔로적성게임 8적부문 1등...!  <br/>... 사실 참가자가 1명 :sob:  <br/><br/>===  <br/><br/>최고레벨단계 적성을 1인 비공개로 한판 진행하여 가장 높은 포인트를 기록한 사람이 승리  <br/><br/>참가자격  <br/>적성스캐너 최고레벨이 7-9인 본계정  <br/>7적 부문, 8적 부문, 9적 부문 3가지 중에서 최고레벨 부문으로만 참가가능  <br/><br/>진행일정  <br/>지금~적성이벤트끝나는 순간 (2020.12.14 ~ 2020.12.16)  <br/><br/>참가보상  <br/>9적부문1등 - 11적 보라 파랑 노랑 중 종류 선택하여 16개  <br/>8적부문 1등 - 11적 노랑 10적 보라 파랑 중 종류 선택하여 16개  <br/>7적부문 1등 - 10적 파랑 노랑 9적 보라 중 종류 선택하여 16개  <br/><br/>===  <br/><br/>9적(3명참가) - jin6939(5278점)  <br/>8적(1명참가) - curycu(1716점)  <br/>7적 - 참가자없음<br/>
   </details>
   <details>
     <summary>Day 161 - No_Warp_Lane_Cross_Section_Shipment_Drone</summary>
