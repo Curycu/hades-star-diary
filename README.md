@@ -8,6 +8,14 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 205 - Module_Open_Complete</summary>
+    <br/>달콤한 11적 테트 오픈...  <br/>원격 폭탄 모듈을 끝으로 해제된 모듈 59/59 완성!<br/>
+  </details>
+  <details>
+    <summary>Day 204 - BS_Mini_Event</summary>
+    <br/>아몰라님이 주최하신 청성미니게임 공동2등...!  <br/><br/>===  <br/><br/>참가자격  <br/>본계정으로 누구나 참여가능  <br/><br/>진행일정<br/>14일 00:00 ~ 21일 23:59  <br/><br/>참가보상<br/>1등 11적 사면체 40개  <br/>2등 11적 사면체 20개  <br/>3등 11적 사면체 10개  <br/>(수송함 용량 20톤미만인 분은 적재가능한 최고레벨 사면체로 지급)  <br/><br/>===  <br/><br/>Kayden         12점, 12점, 12점 = 36점  <br/>Curycu         12점, 08점, 12점 = 32점  <br/>MONSONG        12점, 12점, 05점 = 29점  <br/>기원설화       12점, 05점, 12점 = 29점  <br/>Grandverg      08점, 03점, 12점 = 23점  <br/>jin6939        08점, 00점, 12점 = 20점<br/>
+  </details>
+  <details>
     <summary>Day 199 - TS_24_Ton_Cargo</summary>
     <br/>드디어 수송선 24톤 달성!  <br/>8적 2개씩, 6적 3개씩 콜~!  <br/>수소 절약의 시작...!!!  <br/><br/>
     <image src="./assets/20210113_TS_24_Ton_Cargo.png" align="center">
