@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 206 - Warp_Lane_Hub_3M</summary>
+    <br/>3백만 워프레인허브 완공...!  <br/><br/>
+    <image src="./assets/20210120_Warp_Lane_Hub_3M.png" align="center">
+  </details>
+  <details>
     <summary>Day 205 - Module_Open_Complete</summary>
     <br/>달콤한 11적 테트 오픈...  <br/>원격 폭탄 모듈을 끝으로 해제된 모듈 59/59 완성!<br/>
   </details>
