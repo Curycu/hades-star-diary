@@ -8,5 +8,5 @@
 
 다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  
 
-[](https://youtu.be/cs4y964ui7I)  
+[youtube video](https://youtu.be/cs4y964ui7I)  
 ![](../assets/20201229_BS_Dogfight.jpg)  

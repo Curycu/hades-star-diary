@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 210 - BS_Bond_with_Teleport</summary>
-    <br/>청성 끈텔 첫 성공...!  <br/>끈이 1렙이라 시간 엄청 짧은데다가  <br/>텔은 주로 인셉날리기만해서 =_=a (로우큐에선 나름 위협적...)  <br/>끈텔 콤보는 이제서야 처음 써먹어봄...!  <br/><br/>[youtube_link](https://www.youtube.com/watch?v=DthLX9jCKmE)<br/>
+    <br/>청성 끈텔 첫 성공...!  <br/>끈이 1렙이라 시간 엄청 짧은데다가  <br/>텔은 주로 인셉날리기만해서 =_=a (로우큐에선 나름 위협적...)  <br/>끈텔 콤보는 이제서야 처음 써먹어봄...!  <br/><br/>[youtube video](https://www.youtube.com/watch?v=DthLX9jCKmE)<br/>
   </details>
   <details>
     <summary>Day 206 - Warp_Lane_Hub_3M</summary>
@@ -65,12 +65,12 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 188 - Destiny_vs_Vengeance</summary>
-    <br/>운명 함선에 복수 쓰려는 분이 계셔서 교훈을 드렸음 :kissing_heart:  <br/><br/>[](https://www.youtube.com/watch?v=VhcXbJYl2E4)<br/>
+    <br/>운명 함선에 복수 쓰려는 분이 계셔서 교훈을 드렸음 :kissing_heart:  <br/><br/>[youtube video](https://www.youtube.com/watch?v=VhcXbJYl2E4)<br/>
     <image src="./assets/20210102_Destiny_vs_Vengeance.jpg" align="center">
   </details>
   <details>
     <summary>Day 184 - BS_Dogfight</summary>
-    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째 판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째 판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/><br/>[](https://youtu.be/cs4y964ui7I)<br/>
+    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째 판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째 판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/><br/>[youtube video](https://youtu.be/cs4y964ui7I)<br/>
     <image src="./assets/20201229_BS_Dogfight.jpg" align="center">
   </details>
   <details>
@@ -178,7 +178,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 121 - BS_Bond_Counter</summary>
-    <br/>청색성단 6전함, 5전함, 외톨이 2대 매칭...  <br/>마지막 상대 5끈이라 반쯤 포기하고 있었는데 맞끈 카운터로 어찌어찌 기적적 승리...  <br/><br/>[youtube_video](https://youtu.be/TJeWz9vuZx8)<br/><br/>
+    <br/>청색성단 6전함, 5전함, 외톨이 2대 매칭...  <br/>마지막 상대 5끈이라 반쯤 포기하고 있었는데 맞끈 카운터로 어찌어찌 기적적 승리...  <br/><br/>[youtube video](https://youtu.be/TJeWz9vuZx8)<br/><br/>
     <image src="./assets/20201027_BS_Bond_Counter.png" align="center">
   </details>
   <details>
