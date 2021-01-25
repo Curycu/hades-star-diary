@@ -12,6 +12,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <br/>청성 끈텔 첫 성공...!  <br/>끈이 1렙이라 시간 엄청 짧은데다가  <br/>텔은 주로 인셉날리기만해서 =_=a (로우큐에선 나름 위협적...)  <br/>끈텔 콤보는 이제서야 처음 써먹어봄...!  <br/><br/>[youtube video](https://www.youtube.com/watch?v=DthLX9jCKmE)<br/>
   </details>
   <details>
+    <summary>Day 210 - Sub_First_RS6</summary>
+    <br/>부계 첫 6적 진입...  <br/>7적이 100만이니까 현재 클캡이 25만이고...  <br/>실화냐 =_=a  <br/><br/>
+    <image src="./assets/20210124_Sub_First_RS6.png" align="center">
+  </details>
+  <details>
     <summary>Day 206 - Warp_Lane_Hub_3M</summary>
     <br/>3백만 워프레인허브 완공...!  <br/><br/>
     <image src="./assets/20210120_Warp_Lane_Hub_3M.png" align="center">
