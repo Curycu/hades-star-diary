@@ -13,7 +13,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 210 - Sub_First_RS6</summary>
-    <br/>부계 첫 6적 진입...  <br/>7적이 100만이니까 현재 클캡이 25만이고...  <br/>실화냐 =_=a  <br/><br/>
+    <br/>부계 첫 6적 진입...  <br/>현재 클캡이 25만이고... 7적이 100만이니까...    <br/>실화냐 =_=a  <br/><br/>
     <image src="./assets/20210124_Sub_First_RS6.png" align="center">
   </details>
   <details>
