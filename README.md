@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 214 - Lv7_Shipment_Drone</summary>
+    <br/>수송품드론 7렙!  <br/>수소 소비량이 4000 -> 5000 으로 증가...  <br/>연이어 수송품드론 8렙 클릭!  <br/><br/>
+    <image src="./assets/20210128_Lv7_Shipment_Drone.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 211 - Sudden_Attack</summary>
     <br/>채굴을 마치자 채구리 편대가 펼쳐지면서 센티넬의 기습을 받았다...  <br/>... 내가 이래서 채굴함은 모조리 안식처를 달지 -_-;  <br/><br/>다시 돌려보니 육안으로는 펼쳐진거 같지도 않은게 함정  <br/><br/>[youtube video](https://www.youtube.com/watch?v=Th024yHSZQU)<br/>
   </details>
