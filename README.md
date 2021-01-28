@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 211 - Sudden_Attack</summary>
+    <br/>채굴을 마치자 채구리 편대가 펼쳐지면서 센티넬의 기습을 받았다...  <br/>... 내가 이래서 채굴함은 모조리 안식처를 달지 -_-;  <br/><br/>다시 돌려보니 육안으로는 펼쳐진거 같지도 않은게 함정  <br/><br/>[youtube video](https://www.youtube.com/watch?v=Th024yHSZQU)<br/>
+  </details>
+  <details>
     <summary>Day 210 - BS_Bond_with_Teleport</summary>
     <br/>청성 끈텔 첫 성공...!  <br/>끈이 1렙이라 시간 엄청 짧은데다가  <br/>텔은 주로 인셉날리기만해서 =_=a (로우큐에선 나름 위협적...)  <br/>끈텔 콤보는 이제서야 처음 써먹어봄...!  <br/><br/>[youtube video](https://www.youtube.com/watch?v=DthLX9jCKmE)<br/>
   </details>
