@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 219 - Lv8_Shipment_Drone</summary>
+    <br/>수송품드론 8렙!  <br/>수소 소비량이 5,000 -> 7,500 으로 증가...  <br/>그리고 드디어 기다리고 기다리던 텔레포트 8렙 클릭!   <br/><br/>
+    <image src="./assets/20210202_Lv8_Shipment_Drone.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 214 - Lv7_Shipment_Drone</summary>
     <br/>수송품드론 7렙!  <br/>수소 소비량이 4,000 -> 5,000 으로 증가...  <br/>연이어 수송품드론 8렙 클릭!  <br/><br/>
     <image src="./assets/20210128_Lv7_Shipment_Drone.jpg" align="center">
