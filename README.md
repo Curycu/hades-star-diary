@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 224 - Lv6_Trade_Station</summary>
+    <br/>교역정거장 6레벨 달성...!  <br/>드디어 1,000 클딧 넘는 수송품들이 보이기 시작했다 :laughing:  <br/><br/>
+    <image src="./assets/20210207_Lv6_Trade_Station.png" align="center">
+  </details>
+  <details>
     <summary>Day 223 - Lv8_Teleport</summary>
     <br/>Lv8 텔레포트 장착!  <br/>황색성단에서조차 엄청 넓다...!  <br/>다 좋은데 이용료가 500 수소로 증가... ㄷㄷ    <br/><br/>
     <image src="./assets/20210206_Lv8_Teleport.jpg" align="center">
