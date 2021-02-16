@@ -23,6 +23,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210202_Lv8_Shipment_Drone.jpg" align="center">
   </details>
   <details>
+    <summary>Day 217 - The Revenant</summary>
+    <br/>혁명군 콥 비공개 적성에서 있었던 사건  <br/>제목은 "레버넌트: 죽음에서 돌아온 자" 정도로 하면 될듯...?  <br/>채굴이 장벽과 수송선 발송과 텔 기타 등등으로 간신히 사상자 발생은 막음 ㅋㅋㅋ  <br/><br/>[youtube video](https://www.youtube.com/watch?v=TYgv0dWEKZE)  <br/><br/>
+  </details>
+  <details>
     <summary>Day 214 - Lv7_Shipment_Drone</summary>
     <br/>수송품드론 7렙!  <br/>수소 소비량이 4,000 -> 5,000 으로 증가...  <br/>연이어 수송품드론 8렙 클릭!  <br/><br/>
     <image src="./assets/20210128_Lv7_Shipment_Drone.jpg" align="center">
