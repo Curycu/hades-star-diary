@@ -66,7 +66,7 @@ for(a in 1:nrow(articles)){
   image.html <- ''
   if(image.exists){
     image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
-    image.html <- paste(image.html, collapse='<br/>')
+    image.html <- paste(image.html, collapse='<br/><br/>')
   }
   
   article.html <- 
