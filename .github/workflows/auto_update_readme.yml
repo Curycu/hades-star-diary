@@ -1,12 +1,32 @@
-name: auto-update-readme
-on: [ push ]
+name: Generate README
+
+on: 
+  push:
+    branches:
+      - master
+
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
+
       - name: Setup R
         uses: r-lib/actions/setup-r@v1
         with:
           r-version: '3.5.3'
-      - run: Rscript ./update_readme.R
+
+      - name: Install dependencies
+        run: install.packages(c('dplyr','stringr','glue'))
+        shell: Rscript {0}
+
+      - name: Update README
+        run: Rscript update_readme.R
+
+      - name: Add commit log
+        run: |
+          git config --global user.name 'Curycu'
+          git config --global user.email 'Curycu@users.noreply.github.com'
+          git commit -am "Generated README.md"
+          git push
