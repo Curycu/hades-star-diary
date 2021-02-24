@@ -4,7 +4,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Run update_readme script
-        uses: docker://rocker/tidyverse
-        run: Rscript update_readme.R
+      - uses: actions/checkout@master
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: '3.5.3'
+      - run: Rscript ./update_readme.R
