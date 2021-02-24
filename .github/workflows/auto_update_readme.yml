@@ -17,4 +17,4 @@ jobs:
           install.packages(c('dplyr', 'stringr', 'glue'))
         shell: Rscript {0}
       - name: Run update_readme script
-        shell: Rscript update_readme.R
+        run: Rscript update_readme.R
