@@ -23,10 +23,3 @@ jobs:
 
       - name: Update README
         run: Rscript update_readme.R
-
-      - name: Add commit log
-        run: |
-          git config --global user.name 'Curycu'
-          git config --global user.email 'Curycu@users.noreply.github.com'
-          git commit -am "Generated README.md"
-          git push
