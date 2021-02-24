@@ -2,19 +2,9 @@ name: auto-update-readme
 on: [ push ]
 jobs:
   update-readme:
-    runs-on: macOS-latest
-    strategy:
-      matrix:
-        r-version: [3.5, 3.6]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Set up R ${{ matrix.r-version }}
-        uses: r-lib/actions/setup-r@ffe45a39586f073cc2e9af79c4ba563b657dc6e3
-        with:
-          r-version: ${{ matrix.r-version }}
-      - name: Install dependencies
-        run: |
-          install.packages(c('dplyr', 'stringr', 'glue'))
-        shell: Rscript {0}
       - name: Run update_readme script
+        uses: docker://rocker/tidyverse
         run: Rscript update_readme.R
