@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 247 - Croid_Event</summary>
-    <br/>적성 꿀광 2배 이벤트라니...  <br/>이럴줄 알았으면 교역정거장 업글할게 아니라 빨리 9적부터 갔을텐데 ㅠㅠ  <br/><br/>크리스탈 박아볼까... 잠시 생각했으나  <br/>9적 기준 225,000 클딧이라 7일 다 먹어도 1,575,000 클딧...   <br/>아쉽지만 그냥 패스하는 걸로 :sob:    <br/><br/>
+    <br/>적성 꿀광 2배 이벤트라니...  <br/>이럴줄 알았으면 교역정거장 업글할게 아니라 빨리 9적부터 갔을텐데 ㅠㅠ  <br/><br/>크리스탈 박아볼까... 잠시 생각했으나<br/>9적 기준 2배 450,000 클딧이라 8적 기준 300,000 클딧이랑 차이가 150,000 클딧...  <br/>7일 차이라고 생각하면 1,050,000 클딧...  <br/>일일 클딧 수입이 100만이니 그냥 1일 놀았다 생각하고 그냥 패스하는 걸로... :sob:    <br/><br/>
     <image src="./assets/20210302_Croid_Event.PNG" align="center">
   </details>
   <details>
