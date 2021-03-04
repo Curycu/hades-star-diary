@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 249 - Daily_Revenue</summary>
+    <br/>크레딧 1일 수입 내역  <br/><br/>총합 : 1,236,109  <br/>꿀광 (적성 8렙) : 300,000 = 150,000 * 2 (2배 이벤트)  <br/>청성 : 169,650  <br/>유물 재활용 (적성 7렙) : 192,000 = 2400 * 20개 * 4회  <br/>수송 (수송품드론 8렙, 교역정거장 6렙 3개, 행성 14개) : 574,459 = 1,236,109 - 300,000 - 169,650 - 192,000   <br/><br/>
+    <image src="./assets/20210304_Daily_Revenue.PNG" align="center">
+  </details>
+  <details>
     <summary>Day 247 - Croid_Event</summary>
     <br/>적성 꿀광 2배 이벤트라니...  <br/>이럴줄 알았으면 교역정거장 업글할게 아니라 빨리 9적부터 갔을텐데 ㅠㅠ  <br/><br/>크리스탈 박아볼까... 잠시 생각했으나<br/>9적 기준 2배 45만 클딧이라 8적 기준 30만 클딧이랑 차이가 15만 클딧...  <br/>7일 차이라고 생각하면 105만 클딧...  <br/>일일 클딧 수입이 100만이니 그냥 하루 놀았다 생각하고 패스하는 걸로... :sob:    <br/><br/>
     <image src="./assets/20210302_Croid_Event.PNG" align="center">
