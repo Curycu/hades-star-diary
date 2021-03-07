@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 252 - Credit_Cap_4M</summary>
+    <br/>400만 클캡...! :money_mouth:  <br/>9적 가즈아!!!  <br/><br/>
+    <image src="./assets/20210307_Credit_Cap_4M.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 249 - Daily_Revenue</summary>
     <br/>크레딧 1일 수입 내역  <br/><br/>총합 : 1,245,685    <br/>청성 : 169,650  <br/>꿀광 (적성 8렙) : 300,000 = 150,000 * 2 (2배 이벤트)  <br/>유물 연구 (적성 8렙 테트) : 49,600 = 6,200 * 8회  <br/>유물 재활용 (적성 7렙) : 192,000 = 2,400 * 20개 * 4회  <br/>수송 (수송품드론 8렙, 교역정거장 6렙 3개, 행성 14개) : 534,435 = 1,245,685 - 169,650 - 300,000 - 49,600 - 192,000  <br/><br/>
     <image src="./assets/20210304_Daily_Revenue.PNG" align="center">
