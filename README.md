@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 252 - Credit_Cap_4M</summary>
-    <br/>400만 클캡...! :money_mouth:  <br/>9적 가즈아!!!  <br/><br/>
+    <br/>400만 클캡...! :money_mouth_face:  <br/>9적 가즈아!!!  <br/><br/>
     <image src="./assets/20210307_Credit_Cap_4M.jpg" align="center">
   </details>
   <details>
