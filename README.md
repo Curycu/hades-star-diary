@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 253 - First_RS9</summary>
+    <br/>첫 9적 진입...  <br/>9적 행성이 불 행성인 이유를 알았다  <br/>불 맛이기 때문이다 :fire:    <br/>EMP 쓰고 1스톰, 2피닉, 1봄버 섹터를 밀어보려했으나 전멸 :sob:  <br/>화력 창렬... :vomiting_face:  <br/>8포격이 시급하다...  <br/><br/>
+    <image src="./assets/20210308_First_RS9.png" align="center">
+  </details>
+  <details>
     <summary>Day 253 - Sub_Lv100</summary>
     <br/>부계 100렙 달성...!  <br/><br/>
     <image src="./assets/20210308_Sub_Lv100.png" align="center">
