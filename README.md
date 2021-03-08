@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 253 - Sub_Lv100</summary>
+    <br/>부계 100렙 달성...!  <br/><br/>
+    <image src="./assets/20210308_Sub_Lv100.png" align="center">
+  </details>
+  <details>
     <summary>Day 252 - Credit_Cap_4M</summary>
     <br/>400만 클캡...! :money_mouth_face:  <br/>9적 가즈아!!!  <br/><br/>
     <image src="./assets/20210307_Credit_Cap_4M.jpg" align="center">
