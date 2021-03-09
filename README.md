@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 254 - RS9_Croid_Mining</summary>
+    <br/>오늘도 평화로운 9적 꿀광...  <br/>이웃 섹터 폭격기 & 스톰이 격한 환영 중이다  <br/><br/>[youtube video](https://www.youtube.com/watch?v=-eu2N5eVj0s)<br/>
+    <image src="./assets/20210309_RS9_Croid_Mining.png" align="center">
+  </details>
+  <details>
     <summary>Day 253 - First_RS9</summary>
     <br/>첫 9적 진입...  <br/>9적 행성이 불 행성인 이유를 알았다  <br/>불 맛이기 때문이다 :fire:    <br/>EMP 쓰고 1스톰, 2피닉, 1봄버 섹터를 밀어보려했으나 전멸 :sob:  <br/>화력 창렬... :vomiting_face:  <br/>8포격이 시급하다...  <br/>  <br/><br/>==========================<br/><br/>대형화포 빼고 EMP + 3포격 셋팅으로 화력 보강하여 1행 성공...!  <br/>8적 처음갔을때 재활용 빼고 4렙 전함으로 몸비틀어 깨던만큼은 아니지만 역시 편안한 클리어는 아님 :weary:  <br/>그나저나 9적 15톤이라 유물 1개씩 들고오니 수송선 6대 가야 행성 1개 간신히 다 털어오네... :sob:  <br/>10화물실확장 모듈 1순위로 변경!!!  <br/>도면 2,333장 더 모아야한다...  <br/><br/>
     <image src="./assets/20210308_First_RS9_01.png" align="center"><br/><br/><image src="./assets/20210308_First_RS9_02.png" align="center">
