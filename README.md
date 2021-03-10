@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 255 - Area_Shield</summary>
+    <br/>9적에서 광역실드 도입...  <br/>처음엔 오메가실드 2대 빼고 광실 2대 넣었는데  <br/>너무 종잇장이라... 선봉함은 오실로 교체했더니 편- 안.  <br/><br/>화력 딸려서 3포격 했더니  <br/>피닉스 터지고 나오는 힐링포션(?) 인 센티넬들이  <br/>독약으로 바뀌어서 엄청 따가웠는데 :skull_and_crossbones:   <br/>이제 블실함 터질 걱정 안해도 되서 기쁘다 :laughing:  <br/><br/>
+    <image src="./assets/20210310_Area_Shield.png" align="center">
+  </details>
+  <details>
     <summary>Day 254 - RS9_Croid_Mining</summary>
     <br/>오늘도 평화로운 9적 꿀광...  <br/>이웃 섹터 폭격기 & 스톰이 격한 환영 중이다  <br/><br/>[youtube video](https://www.youtube.com/watch?v=-eu2N5eVj0s)<br/>
     <image src="./assets/20210309_RS9_Croid_Mining.png" align="center">
