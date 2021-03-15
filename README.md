@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 260 - Seven_Planets_Aligned</summary>
+    <br/>부계 행성이 드디어 7개 1열로 완성되었다...  <br/>하데스 스타에서 행성을 1열로 늘어놓을수 있는 최대치 :zany_face:  <br/>이제 우주가 멸망할 일만 남은 건가  <br/><br/>
+    <image src="./assets/20210315_Seven_Planets_Aligned.png" align="center">
+  </details>
+  <details>
     <summary>Day 255 - Area_Shield</summary>
     <br/>9적에서 광역실드 도입...  <br/>처음엔 오메가실드 2대 빼고 광실 2대 넣었는데  <br/>너무 종잇장이라... 선봉함은 오실로 교체했더니 편- 안.  <br/><br/>화력 딸려서 3포격 했더니  <br/>피닉스 터지고 나오는 힐링포션(?) 인 센티넬들이  <br/>독약으로 바뀌어서 엄청 따가웠는데 :skull_and_crossbones:   <br/>이제 블실함 터질 걱정 안해도 되서 기쁘다 :laughing:  <br/><br/>
     <image src="./assets/20210310_Area_Shield.png" align="center">
