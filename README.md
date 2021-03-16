@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 261 - Discover_Planet_Exile</summary>
+    <br/>첫번째 얼음행성 발견...!!! :ice_cube:  <br/><br/>
+    <image src="./assets/20210316_Discover_Planet_Exile.png" align="center">
+  </details>
+  <details>
     <summary>Day 260 - Seven_Planets_Aligned</summary>
     <br/>부계 행성이 드디어 7개 1열로 완성되었다...  <br/>하데스 스타에서 행성을 1열로 늘어놓을수 있는 최대치 :zany_face:  <br/>이제 우주가 멸망할 일만 남은 건가  <br/><br/>
     <image src="./assets/20210315_Seven_Planets_Aligned.png" align="center">
