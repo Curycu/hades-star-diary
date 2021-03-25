@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 270 - TS_30_Ton_Cargo</summary>
+    <br/>수송선 30톤 달성...!!!  <br/>이제 7적 3개씩, 9적 2개씩! :blush:  <br/><br/>
+    <image src="./assets/20210325_TS_30_Ton_Cargo.png" align="center">
+  </details>
+  <details>
     <summary>Day 261 - Discover_Planet_Exile</summary>
     <br/>첫번째 얼음행성 발견...!!! :ice_cube:  <br/><br/>
     <image src="./assets/20210316_Discover_Planet_Exile.png" align="center">
