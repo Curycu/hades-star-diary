@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 270 - Hydro_Farm</summary>
+    <br/>부계 첫 포도밭 완성!  <br/>제네시스 1렙으로 시작해서 정말 오래걸렸다 :sob:  <br/><br/>
+    <image src="./assets/20210325_Hydro_Farm.png" align="center">
+  </details>
+  <details>
     <summary>Day 270 - TS_30_Ton_Cargo</summary>
     <br/>수송선 30톤 달성...!!!  <br/>이제 7적 3개씩, 9적 2개씩! :blush:  <br/><br/>
     <image src="./assets/20210325_TS_30_Ton_Cargo.png" align="center">
