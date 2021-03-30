@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 270 - Hydro_Farm</summary>
-    <br/>부계 첫 포도밭 완성!  <br/>제네시스 1렙으로 시작해서 정말 오래걸렸다 :sob:  <br/><br/>
+    <br/>부계 첫 포도밭 완성!  <br/>섹터 당 보유 수소량 : 21,000 = 1,500 * 14  <br/><br/>제네시스 1렙으로 시작해서 정말 오래걸렸다 :sob:  <br/><br/>
     <image src="./assets/20210325_Hydro_Farm.png" align="center">
   </details>
   <details>
