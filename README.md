@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 276 - Last_Fame_Quest</summary>
+    <br/>마지막 명성퀘 완료...!  <br/>27,000 명성에 750,000 크레딧 112,500 수소 획득 :laughing:  <br/><br/>
+    <image src="./assets/20210331_Last_Fame_Quest.png" align="center">
+  </details>
+  <details>
     <summary>Day 270 - Hydro_Farm</summary>
     <br/>부계 첫 포도밭 완성!  <br/>섹터 당 보유 수소량 : 21,000 = 1,500 * 14  <br/><br/>제네시스 1렙으로 시작해서 정말 오래걸렸다 :sob:  <br/><br/>
     <image src="./assets/20210325_Hydro_Farm.png" align="center">
