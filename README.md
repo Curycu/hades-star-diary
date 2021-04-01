@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 278 - Lv7_Trade_Station</summary>
+    <br/>교역정거장 7렙 완성!  <br/>시간 당 1,568 클딧 :kissing_closed_eyes:  <br/><br/>
+    <image src="./assets/20210402_Lv7_Trade_Station.png" align="center">
+  </details>
+  <details>
     <summary>Day 276 - Last_Fame_Quest</summary>
     <br/>마지막 명성퀘 완료...!  <br/>27,000 명성에 750,000 크레딧 112,500 수소 획득 :laughing:  <br/><br/>
     <image src="./assets/20210331_Last_Fame_Quest.png" align="center">
