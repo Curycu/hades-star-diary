@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 287 - EMP_Party</summary>
+    <br/>신나게 터지는 EMP에 맞춰 인셉 댄스...  <br/><br/>[youtube video](https://youtu.be/SmfuUwMQXh0)<br/><br/>
+    <image src="./assets/20210411_EMP_Party.png" align="center">
+  </details>
+  <details>
     <summary>Day 278 - Lv7_Trade_Station</summary>
     <br/>교역정거장 7렙 완성!  <br/>시간 당 1,568 클딧 :kissing_closed_eyes:  <br/><br/>
     <image src="./assets/20210402_Lv7_Trade_Station.png" align="center">
