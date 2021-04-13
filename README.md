@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 288 - Private_RS_Event_Season_10</summary>
-    <br/>비공개 적색성단 이벤트 시즌 10 종료  <br/><br/>혁명군 코퍼레이션 136위 / 342,029점  <br/>NOVA 코퍼레이션 181위 / 302,197점  <br/><br/>NOVA 콥에선 기본급 100% 인상(?) 받고 용병으로 뛰었고 (8적 16개, 7적 142개, 6적 18개) * 2 매출을 내는데 성공 :laughing:  <br/>200위권 밖일때부터 달려서 결국 200위 순위권에 뙇 모습이 나올 때의 그 뿌듯함이란...  <br/> <br/>7적 비공으로 유물 2배로 받아가며 뛰니 수소가 흑자가 나는 것을 볼 수 있었다...! 넘나리 풍성한 이벤트!  <br/>I also credit joa :money_mouth:  <br/><br/>
+    <br/>비공개 적색성단 이벤트 시즌 10 종료  <br/><br/>혁명군 코퍼레이션 136위 / 342,029점  <br/>NOVA 코퍼레이션 181위 / 302,197점  <br/><br/>NOVA 콥에선 기본급 100% 인상(?) 받고 용병으로 뛰었고 (8적 16개, 7적 142개, 6적 18개) * 2 매출을 내는데 성공 :laughing:  <br/>200위권 밖일때부터 달려서 결국 200위 순위권에 뙇 모습이 나올 때의 그 뿌듯함이란...  <br/> <br/>7적 비공으로 유물 2배로 받아가며 뛰니 수소가 흑자가 나는 것을 볼 수 있었다...! 넘나리 풍성한 이벤트!  <br/>I also credit joa :money_mouth_face:    <br/><br/>
     <image src="./assets/20210412_Private_RS_Event_Season_10.png" align="center">
   </details>
   <details>
