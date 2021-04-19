@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 295 - Alone_in_the_Dark</summary>
+    <br/>강력한 켈베기지와 켈베함선이 그득할게 뻔한 미확인섹터를 안전하게 건너가는 채굴이...  <br/><br/>
+    <image src="./assets/20210419_Alone_in_the_Dark.png" align="center">
+  </details>
+  <details>
     <summary>Day 290 - Lv8_Trade_Station</summary>
     <br/>교역정거장 8렙 완공!  <br/>교역정거장 6렙의 약 2배 효율... 믓찌다...  <br/>수송품 당 1,000 클딧 넘었다고 좋아했었는데 이젠 2,000 클딧! :heart_eyes:  <br/><br/>
     <image src="./assets/20210414_Lv8_Trade_Station.png" align="center">
