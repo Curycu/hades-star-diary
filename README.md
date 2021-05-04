@@ -13,6 +13,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210419_Alone_in_the_Dark.png" align="center">
   </details>
   <details>
+    <summary>Day 295 - BS_Interceptor_Collectors</summary>
+    <br/>착한인셉 42친구 모으기 퀘스트...  <br/>게으름피우다 2시간 남짓 남았을 때 18친구밖에 못 모은 상태였는데  <br/>청성에서 수기+재활용+강화+안식끼고 인셉대환장파티를 열어 가볍게 해결!  <br/>참고로 돌다보니 안건데 내 전함 터진 이후에 인셉을 다른 전함이 잡더라도 카운트 올라감!  <br/><br/>[youtube video](https://www.youtube.com/watch?v=jO-uUAJO9wc)  <br/><br/>
+    <image src="./assets/20210419_BS_Interceptor_Collectors.png" align="center">
+  </details>
+  <details>
     <summary>Day 290 - Lv8_Trade_Station</summary>
     <br/>교역정거장 8렙 완공!  <br/>교역정거장 6렙의 약 2배 효율... 믓찌다...  <br/>수송품 당 1,000 클딧 넘었다고 좋아했었는데 이젠 2,000 클딧! :heart_eyes:  <br/><br/>
     <image src="./assets/20210414_Lv8_Trade_Station.png" align="center">
