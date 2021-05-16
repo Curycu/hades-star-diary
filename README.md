@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 322 - Immolation_1_tick</summary>
+    <br/>기함 이몰레이션을 처음 직접 써봤다...  <br/>1틱 차이로는 피가 0이되어도 켈베 함선 이미지가 남아있다는 것을 확인 신기신기... :sweat_smile:  <br/><br/>
+    <image src="./assets/20210516_Immolation_1_tick.png" align="center">
+  </details>
+  <details>
     <summary>Day 321 - BS_Warrior</summary>
     <br/>청색성단 워리어 업적 완료!  <br/><br/>
     <image src="./assets/20210515_BS_Warrior.png" align="center">
