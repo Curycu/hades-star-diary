@@ -8,6 +8,15 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 324 - First_WS_15_vs_15_Win</summary>
+    <br/>백색 첫 15 vs 15 승리...!  <br/>9적 오고 3티어 승리를 하니 120만 클딧에 8만 수소...! :moneybag:  <br/>달달하다 :honey_pot:  <br/><br/>
+    <image src="./assets/20210518_First_WS_15_vs_15_Win.png" align="center">
+  </details>
+  <details>
+    <summary>Day 322 - BS_Nose_Dive</summary>
+    <br/>"난 죽음을 택하겠다!"  <br/><br/>[youtube video](https://youtu.be/GCREdQUiNvI)<br/>
+  </details>
+  <details>
     <summary>Day 322 - Immolation_1_tick</summary>
     <br/>기함 이몰레이션을 처음 직접 써봤다...  <br/>1틱 차이로는 피가 0이되어도 켈베 함선 이미지가 남아있다는 것을 확인 신기신기... :sweat_smile:  <br/><br/>
     <image src="./assets/20210516_Immolation_1_tick.png" align="center">
@@ -26,10 +35,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 295 - Alone_in_the_Dark</summary>
     <br/>강력한 켈베기지와 켈베함선이 그득할게 뻔한 미확인섹터를 안전하게 건너가는 채굴이...  <br/><br/>
     <image src="./assets/20210419_Alone_in_the_Dark.png" align="center">
-  </details>
-  <details>
-    <summary>Day 295 - BS_Interceptor_Collectors</summary>
-    <br/>착한인셉 42친구 모으기 퀘스트...  <br/>게으름피우다 2시간 남짓 남았을 때 18친구밖에 못 모은 상태였는데  <br/>청성에서 수기+재활용+강화+안식끼고 인셉대환장파티를 열어 가볍게 해결!  <br/>참고로 돌다보니 안건데 내 전함 터진 이후에 인셉을 다른 전함이 잡더라도 카운트 올라감!  <br/><br/>[youtube video](https://www.youtube.com/watch?v=jO-uUAJO9wc)  <br/><br/>
   </details>
   <details>
     <summary>Day 290 - Lv8_Trade_Station</summary>
