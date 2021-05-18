@@ -13,6 +13,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210518_First_WS_15_vs_15_Win.png" align="center">
   </details>
   <details>
+    <summary>Day 324 - Last_Sector_Scanning</summary>
+    <br/>마지막 섹터까지 오픈 중...  <br/>결국 끝을 보게 만드는구나 더럽게 안나오는 얼행2...  <br/><br/>
+    <image src="./assets/20210518_Last_Sector_Scanning.png" align="center">
+  </details>
+  <details>
     <summary>Day 322 - BS_Nose_Dive</summary>
     <br/>"난 죽음을 택하겠다!"  <br/><br/>[youtube video](https://youtu.be/GCREdQUiNvI)<br/>
   </details>
