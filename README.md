@@ -8,13 +8,18 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 325 - Who_Let_the_Dog_Out</summary>
+    <br/>1다트 2광실 12탐웦의 무시무시함을 목격...  <br/>기동력 실화냐...  <br/>이기긴 했는데 리얼 운빨 :fearful:  <br/><br/>[youtube video](https://youtu.be/PIAtvsS8rHk)  <br/><br/>
+    <image src="./assets/20210519_Who_Let_the_Dog_Out.png" align="center">
+  </details>
+  <details>
     <summary>Day 324 - First_WS_15_vs_15_Win</summary>
     <br/>백색 첫 15 vs 15 승리...!  <br/>9적 오고 3티어 승리를 하니 120만 클딧에 8만 수소...! :moneybag:  <br/>달달하다 :honey_pot:  <br/><br/>
     <image src="./assets/20210518_First_WS_15_vs_15_Win.png" align="center">
   </details>
   <details>
     <summary>Day 324 - Last_Sector_Scanning</summary>
-    <br/>마지막 섹터까지 오픈 중...  <br/>결국 끝을 보게 만드는구나 더럽게 안나오는 얼행2...  <br/><br/>
+    <br/>마지막 섹터까지 오픈 중...  <br/>결국 끝을 보게 만드는구나 더럽게 안나오는 얼행2... :sweat:    <br/><br/>
     <image src="./assets/20210518_Last_Sector_Scanning.png" align="center">
   </details>
   <details>
