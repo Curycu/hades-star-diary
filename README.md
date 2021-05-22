@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 328 - MVP_Flagship</summary>
+    <br/>이번 백색성단의 MVP : 기함  <br/>유물 22개 + 수송2대 를 잡아먹는 기염을 토해 역전승 굳히기를 해냄...!  <br/>상대는 10행 점거하고 우리는 5행 점거했는데 ㅋㅋㅋㅋㅋ  <br/>게이트키퍼가 얼마나 중요한 포지션인지 확인할 수 있었던 판이었음 :laughing:  <br/><br/>
+    <image src="./assets/20210522_MVP_Flagship.png" align="center">
+  </details>
+  <details>
     <summary>Day 325 - Who_Let_the_Dog_Out</summary>
     <br/>1다트 2광실 12탐웦의 무시무시함을 목격...  <br/>기동력 실화냐...  <br/>이기긴 했는데 리얼 운빨 :fearful:  <br/><br/>[youtube video](https://youtu.be/PIAtvsS8rHk)  <br/><br/>
     <image src="./assets/20210519_Who_Let_the_Dog_Out.png" align="center">
