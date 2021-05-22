@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 328 - MVP_Flagship</summary>
-    <br/>이번 백색성단의 MVP : 기함  <br/>유물 22개 + 수송 2대 를 잡아먹는 기염을 토해 승리 굳히기를 해냄...!  <br/>상대는 10행 점거하고 우리는 5행 점거했는데 ㅋㅋㅋㅋㅋ  <br/>게이트키퍼가 얼마나 중요한 포지션인지 확인할 수 있었던 판이었음 :laughing:  <br/><br/>
+    <br/>이번 백색성단의 MVP : 기함  <br/>유물 22개 + 수송 2대 + 채굴 1대 잡아먹는 기염을 토해 승리 굳히기를 해냄...!  <br/>상대는 10행 점거하고 우리는 5행 점거했는데 ㅋㅋㅋㅋㅋ  <br/>게이트키퍼가 얼마나 중요한 포지션인지 확인할 수 있었던 판이었음 :laughing:  <br/><br/>
     <image src="./assets/20210522_MVP_Flagship.png" align="center">
   </details>
   <details>
