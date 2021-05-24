@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 330 - Full_House</summary>
+    <br/>마지막 섹터 스캔을 끝으로 마지막 행성이자 두번째 얼음행성 발견 완료! :ice_cube:  <br/>두개의 강한켈베기지를 적성3+청성1+백성1 = 전함 5대 총동원해서 밀어버리고  <br/>노랑성단 탐험가 + 식민지 개척자 업적도 완료하니,  <br/>이제 후반부 컨텐츠에 들어섰구나... 하는 느낌이 확~ 온다 :sweat_smile:  <br/><br/>
+    <image src="./assets/20210524_Full_House.png" align="center">
+  </details>
+  <details>
     <summary>Day 328 - MVP_Flagship</summary>
     <br/>이번 백색성단의 MVP : 기함  <br/>유물 22개 + 수송 2대 + 채굴 1대 잡아먹는 기염을 토해 승리 굳히기를 해냄...!  <br/>상대는 10행 점거하고 우리는 5행 점거했는데 ㅋㅋㅋㅋㅋ  <br/>게이트키퍼가 얼마나 중요한 포지션인지 확인할 수 있었던 판이었음 :laughing:  <br/><br/>
     <image src="./assets/20210522_MVP_Flagship.png" align="center">
