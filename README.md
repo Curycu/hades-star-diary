@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 334 - WS_Explosion</summary>
+    <br/>하데스 스타 최고의 장관은 역시 백색성단 폭파씬 :bomb:  <br/><br/>
+    <image src="./assets/20210528_WS_Explosion.png" align="center">
+  </details>
+  <details>
     <summary>Day 330 - Full_House</summary>
     <br/>마지막 섹터 스캔을 끝으로 마지막 행성이자 두번째 얼음행성 발견 완료! :ice_cube:  <br/>두개의 강한켈베기지를 적성3+청성1+백성1 = 전함 5대 총동원해서 밀어버리고  <br/>노랑성단 탐험가 + 식민지 개척자 업적도 완료하니,  <br/>이제 후반부 컨텐츠에 들어섰구나... 하는 느낌이 확~ 온다 :sweat_smile:  <br/><br/>
     <image src="./assets/20210524_Full_House.png" align="center">
