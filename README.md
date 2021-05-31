@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 337 - WS_Gate_Keeper</summary>
+    <br/>다트 찍고 처음으로 해보는 백색성단 게이트키퍼  <br/><br/>주요 임무는 펫 삼을 켈베 하나를 끈텔로 납치 후 다트로 피해 없는 교전상태를 유지,  <br/>외근 나간 다른 전함들이 도약으로 빠른 귀환 & 모듈 교환이 가능하도록 하는 것  <br/><br/>이 직무는 간단해보이지만 사실 텔, 끈, 다트, 장벽 4개 모듈이 필요한 콤비네이션...!!  <br/><br/>
+    <image src="./assets/20210531_WS_Gate_Keeper.png" align="center">
+  </details>
+  <details>
+    <summary>Day 335 - BS_Dart_Launcher</summary>
+    <br/>청색성단 다음 시즌 도전 준비 (거의) 완료...  <br/>끈 2렙이랑 알파드론 3렙으로만 올리면 되는데,  <br/>뭐 크리티컬한 셋팅인 다트 1렙과 복수 7렙은 준비가 완료되었으니 문제 없음!  <br/><br/>
+    <image src="./assets/20210529_BS_Dart_Launcher.png" align="center">
+  </details>
+  <details>
     <summary>Day 334 - WS_Explosion</summary>
     <br/>하데스 스타 최고의 장관은 역시 백색성단 폭파씬 :bomb:  <br/><br/>
     <image src="./assets/20210528_WS_Explosion.png" align="center">
