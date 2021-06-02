@@ -8,6 +8,15 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 339 - BS_Alpha_Drone</summary>
+    <br/>청성 종이비행기 날리기의 핵심은 역시  <br/>종이비행기의 내구력!  <br/><br/>1렙 : 400, 2렙 1,200, 3렙 2,500 인데  <br/>인셉 DPS가 90이니 3렙이면 인셉 3마리 협공도 약 9초 정도 버틸 수 있는 수준!  <br/><br/>이정도면 인셉 날리기엔 이론상 충분하다  <br/>빨리 올려서 다음 시즌은 제발 성공적으로... :weary:  <br/><br/>
+    <image src="./assets/20210602_BS_Alpha_Drone.png" align="center">
+  </details>
+  <details>
+    <summary>Day 339 - BS_Powerful_Dart_Play</summary>
+    <br/>다트 1렙 + 광실 1렙으로 전함 2대 순삭하기...  <br/>진짜 맞기만하면 엄청 쎄긴하다 다트 :star_struck:  <br/><br/>[youtube video](https://youtu.be/yTFV_2I4Hbc)<br/>
+  </details>
+  <details>
     <summary>Day 338 - BS_Dart_Launcher_Review</summary>
     <br/>청성 다트 모듈로 도전 후기 <br/><br/>1. 인셉은 최악의 적 :  <br/>딱 달라붙은 상태 아니면 같은 위치에서 인셉 하나한테 영거리 다트 쏴도 못 맞춘다 (오메가 실드 사용 시)  <br/><br/>2. 다트의 긴 사정거리는 패널티 :  <br/>보통이면 안 닿고 스쳐지나갈 위치인데 어그로 끌려서 인셉들이 몰려듬 :weary:  <br/><br/>3. 종잇장도 맞들면 망 :  <br/>다트와 본체가 인셉에게 동시에 맞으니 안 그래도 종잇장인 광역실드가 살살 녹아버림 :sob: (광역 실드 사용 시)  <br/><br/>4. 너덜너덜 :  <br/>타임워프로 실드 2장 쓰는데도 켈베들 처리하고나면 너덜너덜...  <br/>광역 실드는 살살 녹아서, 오메가 실드는 딜 로스가 너무 많아서.. :vomiting_face:  <br/><br/>결론  <br/><br/>다트는 고급 사용자용 모듈 맞음 ㅇㅇ; 당할 땐 신박한데 쓰는 입장에선 좋지만은 않은 모듈    <br/>이번 시즌은 망... 알파드론 3렙으로 인셉들 싹 치우는 거 가능한지 시험해보고 <br/>안된다 싶으면 차라리 원래 하던대로 포격끼고 도는 게 나을 듯  <br/>랭크 매칭율로 보나 승률로 보나 이래저래...<br/>
   </details>
