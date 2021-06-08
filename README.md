@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 345 - WS_Double_Vengeance</summary>
+    <br/>더블 복수 예열 중...  <br/><br/>
+    <image src="./assets/20210608_WS_Double_Vengeance.png" align="center">
+  </details>
+  <details>
     <summary>Day 339 - BS_Alpha_Drone</summary>
     <br/>청성 종이비행기 날리기의 핵심은 역시  <br/>종이비행기의 내구력!  <br/><br/>1렙 : 400, 2렙 1,200, 3렙 2,500 인데  <br/>인셉 DPS가 90이니 3렙이면 인셉 3마리 협공도 약 9초 정도 버틸 수 있는 수준!  <br/><br/>이정도면 인셉 날리기엔 이론상 충분하다  <br/>빨리 올려서 다음 시즌은 제발 성공적으로... :weary:  <br/><br/>
     <image src="./assets/20210602_BS_Alpha_Drone.png" align="center">
