@@ -8,6 +8,15 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 349 - Credit_Cap_5M</summary>
+    <br/>5백만 클캡 달성! <br/>드뎌 워프레인, 수송드론 5백만따리 업그레이드 하겠구먼!  <br/><br/>
+  </details>
+  <details>
+    <summary>Day 349 - Relic_Drone_is_Stronger_than_Battleship</summary>
+    <br/>긴장이 흐르는 국경지대...  <br/><br/>초반 격전지 였던 10행에서 무력으로 밀린 후 :sob:  <br/>급하게 5시 방향 10행으로 변경.  <br/><br/>근데 웃긴건 압도적 점수차이로 이길 예정 :rolling_eyes:  <br/>고렙 유물드론이 이렇게 중요합니다...  <br/><br/>
+    <image src="./assets/20210612_Relic_Drone_is_Stronger_than_Battleship.png" align="center">
+  </details>
+  <details>
     <summary>Day 345 - WS_Double_Vengeance</summary>
     <br/>더블 복수 예열 중...  <br/><br/>
     <image src="./assets/20210608_WS_Double_Vengeance.png" align="center">
