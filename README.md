@@ -13,7 +13,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 349 - Relic_Drone_is_Stronger_than_Battleship</summary>
-    <br/>긴장이 흐르는 국경지대...  <br/><br/>초반 격전지 였던 10행에서 무력으로 밀린 후 :sob:  <br/>급하게 5시 방향 10행으로 변경.  <br/><br/>근데 웃긴 건 압도적 점수 차이로 이길 예정 :roll_eyes:  <br/>고렙 유물드론이 이렇게 중요합니다...  <br/><br/>
+    <br/>긴장이 흐르는 국경지대...  <br/><br/>초반 격전지 였던 10시 방향 10행에서 무력으로 밀린 후 :sob:  <br/>급하게 5시 방향 10행으로 변경.  <br/><br/>근데 웃긴 건 압도적 점수 차이로 이길 예정 :roll_eyes:  <br/>고렙 유물드론이 이렇게 중요합니다...  <br/><br/>
     <image src="./assets/20210612_Relic_Drone_is_Stronger_than_Battleship.png" align="center">
   </details>
   <details>
