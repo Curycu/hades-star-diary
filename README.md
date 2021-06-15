@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 351 - Warp_Lane_Hub_5M</summary>
+    <br/>5M 워프레인허브 완공 :star_struck:  <br/><br/>
+    <image src="./assets/20210614_Warp_Lane_Hub_5M.png" align="center">
+  </details>
+  <details>
     <summary>Day 349 - Credit_Cap_5M</summary>
     <br/>5백만 클캡 달성! <br/>드뎌 워프레인, 수송드론 5백만따리 업그레이드 하겠구먼!  <br/><br/>
   </details>
