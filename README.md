@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 359 - Credit_Rich</summary>
+    <br/>나도 이제 크레딧 부- 자 :moneybag:  <br/><br/>
+    <image src="./assets/20210622_Credit_Rich.png" align="center">
+  </details>
+  <details>
     <summary>Day 351 - Warp_Lane_Hub_5M</summary>
     <br/>5M 워프레인허브 완공 :star_struck:  <br/><br/>
     <image src="./assets/20210614_Warp_Lane_Hub_5M.png" align="center">
