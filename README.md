@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 360 - Fame_30K</summary>
+    <br/>명성 30,000 달성!!  <br/><br/>
+    <image src="./assets/20210623_Fame_30K.png" align="center">
+  </details>
+  <details>
     <summary>Day 359 - Credit_Rich</summary>
     <br/>나도 이제 크레딧 부- 자 :moneybag:  <br/><br/>
     <image src="./assets/20210622_Credit_Rich.png" align="center">
