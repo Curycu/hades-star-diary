@@ -13,6 +13,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210626_Lv9_Shipment_Drone.png" align="center">
   </details>
   <details>
+    <summary>Day 361 - Lose_The_Battle_Win_The_War</summary>
+    <br/>백성 격언 중 "상대 콥에 12끈이 보이거든 1행이나 하라..." 는 말이 있다  <br/>질게 뻔한 한타 싸움... 하지만 백성에서는 기습적 동맥경화(?) 한 방이면 모든 게 끝!  <br/><br/>방심한 상대는 우리 전함들을 한번 전멸시키고 유물을 163개나 10행에 넣어두고도 딱 2개...  <br/>그것도 인트러스트로 간신히 가져갈 수 있었다 ㅋㅋㅋ  <br/><br/>최종 스코어는 자그마치 26 : 2 로 낙승!  <br/><br/>[youtube video](https://youtu.be/qNXM8x_8c8g)   <br/><br/>
+    <image src="./assets/20210624_Lose_The_Battle_Win_The_War.png" align="center">
+  </details>
+  <details>
     <summary>Day 360 - Fame_30K</summary>
     <br/>명성 30,000 달성!!  <br/><br/>
     <image src="./assets/20210623_Fame_30K.png" align="center">
