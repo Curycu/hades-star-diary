@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 366 - 1_Year_at_Hades_Galaxy</summary>
+    <br/>하데스 은하계 진입 1주년 :kissing_heart:<br/>
+  </details>
+  <details>
     <summary>Day 363 - Lv9_Shipment_Drone</summary>
     <br/>수송품드론 9레벨 달성!!! :moneybag:  <br/><br/>수소소비량 7,500 -> 10,000 으로 증가  <br/>  <br/><br/>
     <image src="./assets/20210626_Lv9_Shipment_Drone.png" align="center">
