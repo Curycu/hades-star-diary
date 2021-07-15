@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 381 - First_Lv30_Planet_Opal</summary>
+    <br/>첫 레벨 30 행성...!  <br/>우주엘레베이터가 인상적이다. 언제 설치됐지 :face_with_monocle:  <br/>  <br/><br/>
+    <image src="./assets/20210714_First_Lv30_Planet_Opal.png" align="center">
+  </details>
+  <details>
+    <summary>Day 371 - Lv9_Laser</summary>
+    <br/>9레 완성!  <br/>6레부터 한번에 쭉달려서 9레가 되니 정말 체감 파워 뿜뿜 :star_struck:   <br/>이제 청성에서도 백성에서도 맞대결이 두렵지 않다 :muscle:  <br/>  <br/><br/>
+    <image src="./assets/20210704_Lv9_Laser.png" align="center">
+  </details>
+  <details>
     <summary>Day 366 - 1_Year_at_Hades_Galaxy</summary>
     <br/>하데스 은하계 진입 1주년 :kissing_heart:<br/>
   </details>
