@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 381 - First_Lv30_Planet_Opal</summary>
-    <br/>첫 레벨 30 행성...!  <br/>우주엘레베이터가 인상적이다. 언제 설치됐지 :face_with_monocle:  <br/>  <br/><br/>
+    <br/>첫 레벨 30 행성...!  <br/>우주엘레베이터가 인상적이다. 언제 설치됐지 :monocle_face:  <br/>  <br/><br/>
     <image src="./assets/20210714_First_Lv30_Planet_Opal.png" align="center">
   </details>
   <details>
