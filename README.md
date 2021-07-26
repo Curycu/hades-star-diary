@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 393 - Warp_Lane_Hub_6M</summary>
+    <br/>6M 워프레인허브 완공!  <br/>스페이스 나스카 문양을 완성해가고 있다... :star_struck:  <br/><br/>
+    <image src="./assets/20210726_Warp_Lane_Hub_6M.png" align="center">
+  </details>
+  <details>
     <summary>Day 381 - First_Lv30_Planet_Opal</summary>
     <br/>첫 레벨 30 행성...!  <br/>우주엘레베이터가 인상적이다. 언제 설치됐지 :monocle_face:  <br/>  <br/><br/>
     <image src="./assets/20210714_First_Lv30_Planet_Opal.png" align="center">
