@@ -66,9 +66,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210612_Relic_Drone_is_Stronger_than_Battleship.png" align="center">
   </details>
   <details>
-    <summary>Day 349 - Space_Square</summary>
-    <br/>범- 우주적 도형 생성... 스페이스 스퀘어 :white_square_button:  <br/><br/>
-    <image src="./assets/20210612_Space_Square.png" align="center">
+    <summary>Day 349 - Space_Quadrilateral</summary>
+    <br/>범- 우주적 도형 생성...    <br/><br/>
+    <image src="./assets/20210612_Space_Quadrilateral.png" align="center">
   </details>
   <details>
     <summary>Day 345 - WS_Double_Vengeance</summary>
