@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 412 - Lv9_Trade_Station</summary>
+    <br/>교역정거장 9렙 완공!  <br/><br/>
+    <image src="./assets/20210814_Lv9_Trade_Station.png" align="center">
+  </details>
+  <details>
     <summary>Day 399 - Hydro_Cap_30K</summary>
     <br/>수소캡 30만 달성!  <br/><br/>
     <image src="./assets/20210801_Hydro_Cap_30K.png" align="center">
