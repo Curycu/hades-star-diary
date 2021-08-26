@@ -13,6 +13,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210827_RS_Dart_Player.png" align="center">
   </details>
   <details>
+    <summary>Day 422 - Lv2_Dart_Launcher</summary>
+    <br/>다트런쳐 2렙 :rocket:    <br/>인터셉터 한방 컷 나오는 5렙까지 쭉 달릴 예정 :wink:  <br/><br/>
+    <image src="./assets/20210824_Lv2_Dart_Launcher.png" align="center">
+  </details>
+  <details>
     <summary>Day 412 - Lv9_Trade_Station</summary>
     <br/>교역정거장 9렙 완공!  <br/><br/>
     <image src="./assets/20210814_Lv9_Trade_Station.png" align="center">
