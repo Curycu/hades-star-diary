@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 425 - RS_Dart_Player</summary>
+    <br/>9적 다다대 조합으로 성공적 변경 :kissing_heart:  <br/><br/>처음에는 적응안돼서 1행 실패 3~5회 연속으로하다가...  <br/>눈물을 흘리며 텔 모두 빼고 강화에 복수2개까지 껴서 1행 간신히 성공...  <br/><br/>이 렙 먹고 뚜벅이라니!!! :sob: <br/><br/>하지만 좀 더 돌다보니 손(?)이 업그레이드 되어서 다시 강화랑 복수 하나 빼고 텔포 재설치 후 솔로 1행 성공!  <br/>뚜벅이 탈출 성공 :innocent:  <br/><br/>현재 조합은  <br/><br/>8대형/4오실/8텔/7복수/3재활/1안식  <br/>2다트/5블실/8텔/7장벽/3재활/1안식  <br/>2다트/1광실/8텔/7장벽/3재활/1안식  <br/><br/>
+    <image src="./assets/20210827_RS_Dart_Player.png" align="center">
+  </details>
+  <details>
     <summary>Day 412 - Lv9_Trade_Station</summary>
     <br/>교역정거장 9렙 완공!  <br/><br/>
     <image src="./assets/20210814_Lv9_Trade_Station.png" align="center">
