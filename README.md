@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 430 - Lv4_Dart_Launcher</summary>
+    <br/>다트 4렙 달성...!  <br/>이제 가디언 한방따리! 드루와 드루와 :boom:  <br/><br/>
+    <image src="./assets/20210901_Lv4_Dart_Launcher.png" align="center">
+  </details>
+  <details>
+    <summary>Day 429 - BS_Bonpulse</summary>
+    <br/>청성 업계인의 새로운 무기 : 끈펄스 :star2:    <br/><br/>[youtube video](https://youtu.be/lKttyMr1nCE)    <br/><br/>
+    <image src="./assets/20210831_BS_Bonpulse.png" align="center">
+  </details>
+  <details>
     <summary>Day 426 - Lv3_Dart_Launcher</summary>
     <br/>다트 3렙 완료!  <br/>좀 더 강해진 기분이 든다 :muscle:    <br/><br/>
     <image src="./assets/20210828_Lv3_Dart_Launcher.png" align="center">
