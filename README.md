@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 433 - Lv200</summary>
+    <br/>200렙 달성!<br/>플레이 433일만에 튜토리얼 끝낸 늅 :hatching_chick:  <br/><br/>
+    <image src="./assets/20210904_Lv200.png" align="center">
+  </details>
+  <details>
     <summary>Day 430 - Lv4_Dart_Launcher</summary>
     <br/>다트 4렙 달성...!  <br/>이제 가디언 한방따리! 드루와 드루와 :boom:  <br/><br/>
     <image src="./assets/20210901_Lv4_Dart_Launcher.png" align="center">
