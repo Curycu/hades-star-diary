@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 440 - Lv9_Teleport</summary>
+    <br/>9텔의 위엄... 어마무시한 범위보소 :100:  <br/>근데 수소 소비량 800... :pensive:  <br/>  <br/><br/>
+    <image src="./assets/20210911_Lv9_Teleport.png" align="center">
+  </details>
+  <details>
+    <summary>Day 438 - Lv8_Vengeance</summary>
+    <br/>복수 8렙 달성 :star2:  <br/>  <br/><br/>
+    <image src="./assets/20210909_Lv8_Vengeance.png" align="center">
+  </details>
+  <details>
     <summary>Day 433 - Lv200</summary>
     <br/>200렙 달성!<br/>플레이 433일만에 튜토리얼 끝낸 늅 :hatching_chick:  <br/><br/>
     <image src="./assets/20210904_Lv200.png" align="center">
