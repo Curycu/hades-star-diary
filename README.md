@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 471 - BS_Dart_Duel</summary>
+    <br/>청성 다트 랭커 간의 막고라....  <br/>패자는 즉시 5등 :weary:   <br/><br/>상대가 10오실에 6다트라 무기 실드 모두 열세였는데...  <br/>다행히 상대가 다트 무빙샷 매커니즘에 익숙치 않아 다트 미사일 6대 중 1대만 맞고 승리 :laughing:  <br/>원래는 2대 맞을 건데 임펄스로 긴급탈출해서 생존! 2대 맞았으면 죽었을듯...  <br/><br/>그나저나... 4렙 다트 4대나 꽂아야 간신히 죽다니... 역시 10오실 미친 실드량 :confused:  <br/><br/>[youtube video](https://youtu.be/QV3F4djVQD0)    <br/><br/>
+    <image src="./assets/20211012_BS_Dart_Duel.png" align="center">
+  </details>
+  <details>
     <summary>Day 468 - BS_Destiny_Dart</summary>
     <br/>운명의 다트... :dart::star2:    <br/><br/>[youtube video](https://youtu.be/GkIXZApo_Xg)  <br/><br/>
     <image src="./assets/20211009_BS_Destiny_Dart.png" align="center">
