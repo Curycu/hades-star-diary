@@ -402,11 +402,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20210102_Destiny_vs_Vengeance.jpg" align="center">
   </details>
   <details>
-    <summary>Day 184 - BS_Dogfight</summary>
-    <br/>오랜만에 매우 빡센 청성...  <br/><br/>첫 번째 판은 끈으로 emp 사거리 밖에서 잡아 끄는데 성공했는데 1초 차이로 체력사하고 ㅠ...  <br/><br/>두 번째 판은 시작부터 옆자리 파이터에게 시달리다가 간신히 도망갔더니  <br/>운명쓰고 우연히 다시 옆자리로 돌아와서 이엠피로 자기장사 시키려고하고 ㅠ...  <br/>살려고 운명 사거리도 안닿는데 긴급탈출버튼 누르듯 써서 ㅌㅌ 성공  <br/><br/>다행히 완전 dogfight 상황이라 살아나오니 다 이긴 판이 되어있었다 =_=;  <br/><br/>[youtube video](https://youtu.be/cs4y964ui7I)<br/>
-    <image src="./assets/20201229_BS_Dogfight.jpg" align="center">
-  </details>
-  <details>
     <summary>Day 184 - United_Ships</summary>
     <br/>부계로 5적 공적 뛰다가 목격한 명장면...  <br/>뭉쳐야 산다...!  <br/><br/>
     <image src="./assets/20201229_United_Ships_01.jpg" align="center"><br/><br/><image src="./assets/20201229_United_Ships_02.jpg" align="center">
@@ -434,11 +429,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 172 - Lv5_Barrier</summary>
     <br/>장벽 5렙 업그레이드!  <br/>이제 나도 넓다!  <br/><br/>
     <image src="./assets/20201217_Lv5_Barrier.png" align="center">
-  </details>
-  <details>
-    <summary>Day 172 - No_Santuary_TS_in_RS8_Battlefield</summary>
-    <br/>콜로와 봄버의 맹공 사이에서 노안식 수송선으로 유물을 빼먹는 이 스릴...  <br/>가히 불닭볶음면 같은 중독성이 있다...  <br/><br/>[youtube video](https://youtu.be/KW7218PDH0E)<br/><br/>
-    <image src="./assets/20201217_No_Santuary_TS_in_RS8_Battlefield.png" align="center">
   </details>
   <details>
     <summary>Day 169 - RS_Solo_Event</summary>
