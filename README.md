@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 482 - Hades_Top_Ranker_Symbol_Suggestion</summary>
+    <br/>각 성단별 랭커 심볼에 대한 단상...  <br/>헤드기어보다는 후광같은 걸로 표현했으면 훨씬 더 좋았을것 같다  <br/>현재 심볼 그대로라면 백성 랭커는 영 되고싶지않다 :smirk:    <br/><br/>
+    <image src="./assets/20211023_Hades_Top_Ranker_Symbol_Suggestion.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 473 - Warp_Lane_Hub_7M</summary>
     <br/>7백만 워프레인허브 완공! :yum:    <br/><br/>
     <image src="./assets/20211014_Warp_Lane_Hub_7M.png" align="center">
