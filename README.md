@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 486 - BS_Over_1K_Points</summary>
+    <br/>시즌 35 청성 마스터에 도전하였으나...  <br/>목표하였던 1,000점을 넘기고도 샤킬님에게 패배 :rofl:  <br/>뭐... 일단 목표치는 달성했으니... :smirk:  <br/><br/>다음 시즌을 쉬고 다다음 시즌에 도전할지 그냥 다음 시즌도 연습 + 크리스탈 벌이 겸 해볼지 고민되는 중 :thinking:  <br/><br/>
+    <image src="./assets/20211027_BS_Over_1K_Points.png" align="center">
+  </details>
+  <details>
     <summary>Day 482 - Hades_Top_Ranker_Symbol_Suggestion</summary>
     <br/>각 성단별 랭커 심볼에 대한 단상...  <br/>헤드기어보다는 후광같은 걸로 표현했으면 훨씬 더 좋았을것 같다  <br/>현재 심볼 그대로라면 백성 랭커는 영 되고싶지않다 :smirk:    <br/><br/>
     <image src="./assets/20211023_Hades_Top_Ranker_Symbol_Suggestion.png" align="center">
