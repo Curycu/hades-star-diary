@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 489 - Lv5_Bond</summary>
+    <br/>끈 5렙 달성 :smirk:  <br/><br/>청성에서 받은 3,000 크리스탈 좀 써서 2 -> 5 로 한번에 쩜~프  <br/>사정거리 좀 길어지고 시간 좀 길어졌을 뿐인데  <br/>사용감각은 거의 다른 모듈을 쓰는 수준...  <br/><br/>그럼 끈 12렙은 대체 어떤 세상인 겁니까 선생님?! :monocle_face:  <br/><br/>
+    <image src="./assets/20211030_Lv5_Bond.png" align="center">
+  </details>
+  <details>
     <summary>Day 486 - BS_Over_1K_Points</summary>
     <br/>시즌 35 청성 마스터에 도전하였으나...  <br/>목표하였던 1,000점을 넘기고도 샤킬님에게 패배 :rofl:  <br/>뭐... 일단 목표치는 달성했으니... :smirk:  <br/><br/>다음 시즌을 쉬고 다다음 시즌에 도전할지 그냥 다음 시즌도 연습 + 크리스탈 벌이 겸 해볼지 고민되는 중 :thinking:  <br/><br/>
     <image src="./assets/20211027_BS_Over_1K_Points.png" align="center">
