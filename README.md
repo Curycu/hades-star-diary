@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 491 - Ship_Naming</summary>
+    <br/>함선들 이름으로 제법 마음에 드는 컨셉을 잡았다...  <br/><br/>백성은 성과에 따라 크레딧이 달라지니 스톡옵션  <br/>청성은 성과내면 크레딧이 들어오니 인센티브  <br/>수송이는 꾸준히 수입을 내니 샐러리  <br/>채굴이는 연료니까 커피 :coffee:  <br/><br/>적성 대포 & 복수는 덩어리만 남기고 싹 걸러주니까 필터  <br/>적성 다트 & 블실 & 장벽은 핵심이니까 코어  <br/>적성 다트 & 타임워프는 있으면 편리하니 포매터 :laughing:  <br/><br/>
+    <image src="./assets/20211101_Ship_Naming.png" align="center">
+  </details>
+  <details>
     <summary>Day 489 - Lv5_Bond</summary>
     <br/>끈 5렙 달성 :smirk:  <br/><br/>청성에서 받은 3,000 크리스탈 좀 써서 2 -> 5 로 한번에 쩜~프  <br/>사정거리 좀 길어지고 시간 좀 길어졌을 뿐인데  <br/>사용감각은 거의 다른 모듈을 쓰는 수준...  <br/><br/>그럼 끈 12렙은 대체 어떤 세상인 겁니까 선생님?! :monocle_face:  <br/><br/>
     <image src="./assets/20211030_Lv5_Bond.png" align="center">
