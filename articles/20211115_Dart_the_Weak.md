@@ -1,4 +1,4 @@
 다트 야캐욧!!!  
-:fork_knife_plate: :deer:  
+:plate_with_cutlery: :deer:  
 
 ![](../assets/20211115_Dart_the_Weak.png)  
