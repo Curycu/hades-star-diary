@@ -4,4 +4,4 @@
 
 다음 시즌엔 본 게임이라 잘해야할텐데...  
 
-![](../assets/20211125_BS_Season_36_Score_Board.png)  
+![](../assets/20211125_BS_Season_36_Scoreboard.png)  
