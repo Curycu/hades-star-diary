@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 508 - Space_Naska</summary>
+    <br/>Aliens! :alien:   <br/><br/>
+    <image src="./assets/20211118_Space_Naska.jpg" align="center">
+  </details>
+  <details>
     <summary>Day 505 - Dart_the_Weak</summary>
     <br/>다트 야캐욧!!!  <br/>:plate_with_cutlery: :deer:  <br/><br/>
     <image src="./assets/20211115_Dart_the_Weak.png" align="center">
