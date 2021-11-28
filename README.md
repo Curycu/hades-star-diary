@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 518 - Lv10_Shipyard</summary>
+    <br/>함선제작소 10렙 달성...!  <br/>수송선 8대가 아주 뿌- 듯 :smile:    <br/><br/>
+    <image src="./assets/20211128_Lv10_Shipyard.png" align="center">
+  </details>
+  <details>
     <summary>Day 515 - BS_Season_36_Scoreboard</summary>
     <br/>청색성단 시즌 36 성과표  <br/>내일은 안하고 시즌 37로 넘길거니까... 이게 최종 점수!  <br/>아주 골고루 엉망진창이었음 =_=ㅋ  <br/><br/>다음 시즌엔 본 게임이라 잘해야할텐데...  <br/><br/>
     <image src="./assets/20211125_BS_Season_36_Scoreboard.png" align="center">
