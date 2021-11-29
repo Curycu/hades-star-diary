@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 520 - Private_RS_Event_Season_12</summary>
+    <br/>비공개 적색성단 이벤트 시즌 12  <br/>혁명군 코퍼레이션 33위...!  <br/><br/>정말 순간적으로 메가콥이 된 느낌을 받을 수 있었다 :laughing:  <br/>무슨 9적 큐가 풀팟으로 계속 돌아가는지 ㅋㅋㅋㅋ  <br/><br/>
+    <image src="./assets/20211130_Private_RS_Event_Season_12.png" align="center">
+  </details>
+  <details>
     <summary>Day 518 - Lv10_Shipyard</summary>
     <br/>함선제작소 10렙 달성...!  <br/>수송선 8대가 아주 뿌- 듯 :smile:    <br/><br/>
     <image src="./assets/20211128_Lv10_Shipyard.png" align="center">
