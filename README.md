@@ -8,9 +8,18 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 520 - Lv6_Miner</summary>
+    <br/>나도 드디어 6레벨 채굴이...!  <br/>동시에 수소로켓 연구 시작 :laughing:  <br/>전투형 커세어의 활약을 기대하고 있음 :boom:  <br/><br/>
+    <image src="./assets/20211130_Lv6_Miner.png" align="center">
+  </details>
+  <details>
     <summary>Day 520 - Private_RS_Event_Season_12</summary>
     <br/>비공개 적색성단 이벤트 시즌 12  <br/>혁명군 코퍼레이션 33위...!  <br/><br/>정말 순간적으로 메가콥이 된 느낌을 받을 수 있었다 :laughing:  <br/>무슨 9적 큐가 풀팟으로 계속 돌아가는지 ㅋㅋㅋㅋ  <br/><br/>
     <image src="./assets/20211130_Private_RS_Event_Season_12.png" align="center">
+  </details>
+  <details>
+    <summary>Day 520 - RS_Dart_Ship_Operation_Memo</summary>
+    <br/>최근 대형화포 + 다트런처 조합에 대해 고민해본 결과...  <br/>대포/복수함 외에는 재활용 모듈이 낭비라는 판단이 들었다  <br/>어차피 다트함은 난전 상황에서는 무기가 없는 함선과 똑같고 (소형화포보다 못한 존재)  <br/>복수 날려서 상황 다 정리된 다음 남은 덩치들 쪼개놓는 공격 전용이기에 몸빵할 일은 맞딜 시의 피닉 및 콜로 레이저 외엔 없어야한다  <br/>  <br/>주요 적들의 체력 + 실드를 보면 다음과 같다  <br/>스톰: 40,000  <br/>피닉스: 45,000 + 22,000  <br/>콜로서스: 40,000 + 16,000  <br/>  <br/>1. 스톰 쪽 텔레포트 + 장벽으로 스톰 먼저 처리  <br/>2. 복수로 섹터 잡몹 정리 (대포함 피 전부 회복 + 피닉스 광역실드 제거)  <br/>3. 피닉스 쪽으로 이동 + 광실 켜서 첫 다트 격추 방지 (5렙 다트 8,000*2 = 16,000) + 1렙 오메가로켓 9,000 광역뎀 = 25,000 데미지  <br/>4. 피닉스 및 콜로 체력 모두 20,000 이하인 상태. 9렙 대형화포 10초 기준 2,100 + 16,000 = 18,100 데미지  <br/>  <br/>대충 6렙 다트 혹은 9렙 복수 업그레이드 시 쾌적한 섹터 정리가 가능할듯  <br/>물론 아무리 잘 운용해도 다트함들의 피격은 있기때문에 원격수기 모듈을 1개는 추가해야함  <br/>  <br/>실전에서 운용해보니 게임 끝나고 피 채우는 게 귀찮다는 점 외에는 꽤 괜찮음  <br/>추가적으로 5렙 재활용 모듈의 14.0/100AU * 2대분의 수소 소모를 절약...<br/>
   </details>
   <details>
     <summary>Day 518 - Lv10_Shipyard</summary>
