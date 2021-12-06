@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 523 - Extra_Shot_Coffee</summary>
+    <br/>Ristretto, Espresso, Cold Brew  <br/><br/>(수소로켓) 샷 추가한 (적색성단연장) 찐한 각성 커피 3대장 완성...! :coffee:  <br/><br/>
+    <image src="./assets/20211203_Extra_Shot_Coffee.png" align="center">
+  </details>
+  <details>
     <summary>Day 520 - Lv6_Miner</summary>
     <br/>나도 드디어 6레벨 채굴이...!  <br/>동시에 수소로켓 연구 시작 :laughing:  <br/>전투형 커세어의 활약을 기대하고 있음 :boom:  <br/><br/>
     <image src="./assets/20211130_Lv6_Miner.png" align="center">
