@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 527 - First_RS10</summary>
+    <br/>10적 첫 진입!!!  <br/><br/>1트엔 폭망했고 2트째엔 게이트 옆에 10행이 있어서 1행하는 데에 성공! :smiling_face_with_three_hearts:   <br/>내가... 직접 캔 10적 유물 4개 넘나 소듕... :heart_eyes:  <br/><br/>
+    <image src="./assets/20211207_First_RS10.png" align="center">
+  </details>
+  <details>
     <summary>Day 523 - Extra_Shot_Coffee</summary>
     <br/>Ristretto, Espresso, Cold Brew  <br/><br/>(수소로켓) 샷 추가한 (적색성단연장) 찐한 각성 커피 3대장 완성...! :coffee:  <br/><br/>
     <image src="./assets/20211203_Extra_Shot_Coffee.png" align="center">
