@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 544 - Lv6_Battleship</summary>
+    <br/>Goodbye Chicken,  <br/>Welcome Lamborghini.  <br/><br/>
+    <image src="./assets/20211224_Lv6_Battleship.png" align="center">
+  </details>
+  <details>
+    <summary>Day 539 - TS_36_Ton_Cargo</summary>
+    <br/>36톤 완성...!  <br/>이제 10적 2개씩 수송!  <br/><br/>
+    <image src="./assets/20211219_TS_36_Ton_Cargo.png" align="center">
+  </details>
+  <details>
     <summary>Day 527 - First_RS10</summary>
     <br/>10적 첫 진입!!!  <br/><br/>1트엔 폭망했고 2트째엔 게이트 옆에 10행이 있어서 1행하는 데에 성공! :smiling_face_with_three_hearts:   <br/>내가... 직접 캔 10적 유물 4개 넘나 소듕... :heart_eyes:  <br/><br/>
     <image src="./assets/20211207_First_RS10.png" align="center">
@@ -40,11 +50,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 515 - BS_Season_36_Scoreboard</summary>
     <br/>청색성단 시즌 36 성과표  <br/>내일은 안하고 시즌 37로 넘길거니까... 이게 최종 점수!  <br/>아주 골고루 엉망진창이었음 =_=ㅋ  <br/><br/>다음 시즌엔 본 게임이라 잘해야할텐데...  <br/><br/>
     <image src="./assets/20211125_BS_Season_36_Scoreboard.png" align="center">
-  </details>
-  <details>
-    <summary>Day 508 - Space_Naska</summary>
-    <br/>Aliens! :alien:   <br/><br/>
-    <image src="./assets/20211118_Space_Naska.jpg" align="center">
   </details>
   <details>
     <summary>Day 505 - Dart_the_Weak</summary>
