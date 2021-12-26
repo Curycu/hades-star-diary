@@ -75,8 +75,7 @@ data %>%
   ) +
   theme_bw() +
   theme(
-    panel.grid.minor.x = element_blank(),
-    legend.position = 'none',
-    panel.grid.minor = element_blank()
+    panel.grid.minor = element_blank(),
+    legend.position = 'none'
   )
 
