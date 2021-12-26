@@ -18,6 +18,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20211224_Lv6_Battleship.png" align="center">
   </details>
   <details>
+    <summary>Day 542 - Summoning_Great_Old_Ones</summary>
+    <br/>"위대한 옛 존재들을 깨우기 위한 소환진이 거의 완성되었다."  <br/><br/>
+    <image src="./assets/20211222_Summoning_Great_Old_Ones.png" align="center">
+  </details>
+  <details>
     <summary>Day 539 - TS_36_Ton_Cargo</summary>
     <br/>36톤 완성...!  <br/>이제 10적 2개씩 수송!  <br/><br/>
     <image src="./assets/20211219_TS_36_Ton_Cargo.png" align="center">
