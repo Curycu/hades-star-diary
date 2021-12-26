@@ -5,81 +5,72 @@ library(glue)
 
 rm(list=ls())
 
-season = 36
+season = 37
 
-raw.data = c(
+ranking = c(
   1,1,1,
   1,2,1,
-  1,1,1,
-  2,1,1,
-  2,1,3,
-  1,1,5,
-  1,1,1,
   1,1,3,
   1,1,1,
-  1,1,3,
+  4,3,1,
+  3,1,2,
   1,1,1,
-  1,1,1,
-  3,1,1,
-  1,1,1,
-  1,1,1,
-  1,1,1,
-  1,1,4,
-  1,5,5,
-  1,1,1,
-  1,1,1,
-  1,1,1,
-  1,1,1,
-  3,1,1,
-  1,1,1,
-  3,1,1,
   2,1,1,
-  1,2,2,
   1,1,1,
-  3,2,1
+  1,2,1,
+  3,4,1,
+  1,2,1,
+  1,5,2,
+  2,1,4,
+  1,1,1,
+  1,1,1,
+  4,2,1,
+  1,4,1,
+  1,2,1,
+  2,1,2,
+  1,NA,NA,
+  2,1,1,
+  1,1,1,
+  2,2,1,
+  1,4,NA,
+  1,NA,NA,
+  4,1,NA,
+  1,1,NA,
+  1,1,1,
+  1,1,2
 )
 
-ranking.score = 
-  tribble(
-    ~ranking, ~score,
-    1, 12,
-    2, 8,
-    3, 5,
-    4, 3,
-    5, 0
-  )
+total_round = length(ranking)
+ranking_score = c(12,8,5,3,0)
 
 data = 
-  data.frame(
-    season,
-    ranking = raw.data
-  ) %>% 
-  inner_join(ranking.score, by='ranking') %>%
+  data.frame(season, ranking) %>% 
   transmute(
     season,
     ranking,
-    score = score,
-    total.score = cumsum(score),
-    total.round = 1:n(),
-    daily.round = (total.round %% 3) + 1,
-    day = rep(1:31, each=3) %>% head(n())
+    score = ranking_score[ranking],
+    total_score = cumsum(coalesce(score, 0)),
+    daily_round = rep(1:3, times=31) %>% head(total_round),
+    day = rep(1:31, each=3) %>% head(total_round)
   )
 
-total.score = 
-  data %>% tail(1) %>% .$total.score
+last_data = data %>% tail(1)
+total_score = last_data$total_score
+ideal_total_score = total_round * ranking_score[1]
+missing_score = ideal_total_score - total_score
 
 data %>%
-  mutate(colour = ifelse(ranking > 1, TRUE, FALSE)) %>%
+  mutate(is_error = ifelse(ranking > 1, TRUE, FALSE)) %>%
   group_by(day) %>%
   mutate(count = 1:n()) %>%
   ggplot(aes(x=day, y=count)) +
-  geom_text(aes(label=ranking, color=colour)) +
+  geom_text(aes(label=ranking, color=is_error)) +
   scale_x_continuous(limits=c(1,31), breaks=1:31, expand=c(.03,.03)) +
   scale_y_continuous(limits=c(1,3), breaks=1:3, expand = c(.2,.1)) +
   scale_color_manual(values=c('black','red')) +
   labs(
     title = glue('BS Season {season} : Day of Errors'), 
-    subtitle = glue('Total Score : {total.score}'), 
+    subtitle = glue('Total Score : {total_score} (= {ideal_total_score} - {missing_score})'), 
     y='Round', x='Day'
   ) +
   theme_bw() +
@@ -87,3 +78,4 @@ data %>%
     panel.grid.minor.x = element_blank(),
     legend.position = 'none'
   )
+
