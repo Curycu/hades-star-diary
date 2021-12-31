@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 551 - Last_Warp_Lane_Hub</summary>
+    <br/>2021년의 마지막 날 모든 워프레인허브 건설 완료   <br/><br/>
+    <image src="./assets/20211231_Last_Warp_Lane_Hub.png" align="center">
+  </details>
+  <details>
+    <summary>Day 547 - Warp_Lane_Hub_8M</summary>
+    <br/>8M 워프레인허브 완공!   <br/><br/>
+    <image src="./assets/20211227_Warp_Lane_Hub_8M.png" align="center">
+  </details>
+  <details>
     <summary>Day 546 - BS_Season_37_Scoreboard</summary>
     <br/>2021년 마무리인 청성 시즌 37 성과표  <br/>말아먹은 판도 말아먹은 판이고... 연말 긴급업무가 쏟아진 덕분에 아예 빼먹고 못한 판들이 많이 보임  <br/>... 살려... 줘... :innocent:  <br/><br/>
     <image src="./assets/20211226_BS_Season_37_Scoreboard.png" align="center">
