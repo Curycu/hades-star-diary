@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 553 - Lv10_Trade_Station</summary>
+    <br/>교역정거장 만렙 달성!!! :moneybag:  <br/><br/>
+    <image src="./assets/20220102_Lv10_Trade_Station.png" align="center">
+  </details>
+  <details>
     <summary>Day 551 - Last_Warp_Lane_Hub</summary>
     <br/>2021년의 마지막 날 모든 워프레인허브 건설 완료   <br/><br/>
     <image src="./assets/20211231_Last_Warp_Lane_Hub.png" align="center">
