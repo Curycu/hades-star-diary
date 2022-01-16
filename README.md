@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 563 - Lv10_Shipment_Drone</summary>
+    <br/>수송품드론 10레벨 달성!!! :moneybag:  <br/><br/>수소소비량 10,000 -> 12,500 으로 증가  <br/>  <br/><br/>
+    <image src="./assets/20220112_Lv10_Shipment_Drone.png" align="center">
+  </details>
+  <details>
     <summary>Day 559 - Sub_Discover_Large_Terran_Planet</summary>
     <br/>거대 육지행성까지 찾아버린 부계...  <br/>대충 7적 정도 찍고말줄 알았는데 어느새 8적도 넘어버륌...  <br/>귀찮아서 요즘 거의 안해주는데도 시간 누적이란 역시 무섭... :alarm_clock:  <br/><br/>
     <image src="./assets/20220108_Sub_Discover_Large_Terran_Planet.png" align="center">
