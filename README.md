@@ -18,6 +18,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20220108_Sub_Discover_Large_Terran_Planet.png" align="center">
   </details>
   <details>
+    <summary>Day 557 - Lv10_Mass_Battery</summary>
+    <br/>대형화포 10렙 달성!  <br/>  <br/><br/>
+    <image src="./assets/20220106_Lv10_Mass_Battery.png" align="center">
+  </details>
+  <details>
     <summary>Day 555 - Fame_40K</summary>
     <br/>명성 40K 달성!  <br/><br/>
     <image src="./assets/20220104_Fame_40K.png" align="center">
