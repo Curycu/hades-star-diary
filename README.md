@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 576 - BS_Season_38_Scoreboard</summary>
+    <br/>청성 시즌 38 성과표 :smirk:  <br/>952점으로 2등 :triumph:  <br/>3판이 남아있어 +0~36점이 가능하지만 어차피 1등은 불가능하므로 패스<br/>졌지만... 잘 싸웠다... 흑흑...  <br/><br/>그나저나 청성 지박령 맵핵키드가 1,010점으로 드디어 졸업... <br/>나도 졸업 좀...  <br/><br/>
+    <image src="./assets/20220125_BS_Season_38_Scoreboard.png" align="center">
+  </details>
+  <details>
     <summary>Day 563 - Lv10_Shipment_Drone</summary>
     <br/>수송품드론 10레벨 달성!!! :moneybag:  <br/><br/>수소소비량 10,000 -> 12,500 으로 증가  <br/>  <br/><br/>
     <image src="./assets/20220112_Lv10_Shipment_Drone.png" align="center">
