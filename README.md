@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 581 - Lv11_Mass_Battery</summary>
+    <br/>대형화포 11렙!!!  <br/>이제 스톰은 면역이다 :zany_face:  <br/>  <br/><br/>
+    <image src="./assets/20220130_Lv11_Mass_Battery.png" align="center">
+  </details>
+  <details>
     <summary>Day 578 - Stable_Relationship</summary>
     <br/>365일을 존버한 끝에 얻어낸 성과... :innocent:  <br/>  <br/><br/>
     <image src="./assets/20220127_Stable_Relationship.png" align="center">
