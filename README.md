@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 588 - Lv9_Vengeance</summary>
+    <br/>복수 9렙 완성 이제 7장벽보다 긴 범위...! :laughing:  <br/>연이어 복수 10렙 연구 ㄱㄱ  <br/>  <br/><br/>
+    <image src="./assets/20220206_Lv9_Vengeance.png" align="center">
+  </details>
+  <details>
     <summary>Day 581 - Lv11_Mass_Battery</summary>
     <br/>대형화포 11렙!!!  <br/>이제 스톰은 면역이다 :zany_face:  <br/>  <br/><br/>
     <image src="./assets/20220130_Lv11_Mass_Battery.png" align="center">
