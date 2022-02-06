@@ -13,6 +13,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20220206_Lv9_Vengeance.png" align="center">
   </details>
   <details>
+    <summary>Day 588 - Sub_Chickenship</summary>
+    <br/>부계 치킨함으로 진화! :pourtry_leg:    <br/>  <br/><br/>
+    <image src="./assets/20220206_Sub_Chickenship.png" align="center">
+  </details>
+  <details>
     <summary>Day 581 - Lv11_Mass_Battery</summary>
     <br/>대형화포 11렙!!!  <br/>이제 스톰은 면역이다 :zany_face:  <br/>  <br/><br/>
     <image src="./assets/20220130_Lv11_Mass_Battery.png" align="center">
