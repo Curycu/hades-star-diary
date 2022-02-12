@@ -8,6 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 594 - Lv10_Vengeance</summary>
+    <br/>복수 10렙...!  <br/>250AU 광역에 20K 데미지 :star_struck:  <br/>  <br/><br/>
+    <image src="./assets/20220212_Lv10_Vengeance.png" align="center">
+  </details>
+  <details>
+    <summary>Day 592 - Lv11_Corporation</summary>
+    <br/>코퍼레이션 레벨 11 :laughing:  <br/>이제 유물 보너스 16%.. 매우 훌륭  <br/>  <br/><br/>
+    <image src="./assets/20220210_Lv11_Corporation.png" align="center">
+  </details>
+  <details>
     <summary>Day 589 - Spray_Bomber</summary>
     <br/>작품명 : 융단폭격기  <br/><br/>백색성단 폭격기 펫의 위엄... :vomiting_face:  <br/>  <br/><br/>
     <image src="./assets/20220207_Spray_Bomber.png" align="center">
