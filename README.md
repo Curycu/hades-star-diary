@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 598 - Affluent</summary>
+    <br/>자산가 업적 완료! :moneybag: :gem:  <br/>이렇게보니 백색성단 참여가 돈이 꽤 된다...  <br/>  <br/><br/>
+    <image src="./assets/20220216_Affluent.png" align="center">
+  </details>
+  <details>
     <summary>Day 594 - Lv10_Vengeance</summary>
     <br/>복수 10렙...!  <br/>250AU 광역에 20K 데미지 :star_struck:  <br/>  <br/><br/>
     <image src="./assets/20220212_Lv10_Vengeance.png" align="center">
