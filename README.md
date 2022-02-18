@@ -34,7 +34,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 588 - Sub_Chickenship</summary>
-    <br/>부계 치킨함으로 진화! :pourtry_leg:    <br/>  <br/><br/>
+    <br/>부계 치킨함으로 진화! :poultry_leg:     <br/>  <br/><br/>
     <image src="./assets/20220206_Sub_Chickenship.png" align="center">
   </details>
   <details>
