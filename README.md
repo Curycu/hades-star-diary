@@ -8,6 +8,11 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 604 - Private_RS_Event_Season_13</summary>
+    <br/>비공개 적색성단 이벤트 시즌 13  <br/>혁명군 코퍼레이션 24위...!  <br/>  <br/>수소 100만 넘게 쓰고 부계 포도밭도 몇 마지기 갈아엎고... 하지만 보람찬 성과!  <br/>41등으로 전원 야외취침 위기에서 24등으로 대대장 포상으로 변경!!!  <br/>  <br/>마지막 1시간 남았을 때 위기감 느낀 콥원 분들이 모두 달려들어서  <br/>유물도 버리고 뚠뚠이만 잡는 극약처방을하니 한번에 41등 -> 30등 으로 뛰는 쾌거 ㅋㅋㅋㅋㅋ  <br/><br/>
+    <image src="./assets/20220222_Private_RS_Event_Season_13.png" align="center">
+  </details>
+  <details>
     <summary>Day 600 - Logistics_Strategy</summary>
     <br/># 수송품 드론 이용한 수송 요약  <br/><br/>1. 수송품 목적지는 각 행성 & 위성 & 교역정거장 1/N 확률인듯 (체감)  <br/>- 그렇다면 15렙 사막행성 (위성 2개) > 15렙 불행성 (위성 1개) = 15렙 바다행성 (위성 1개) > 나머지 행성 순으로 수송품 목적지가 많다  <br/>- 수송품 목적지가 많을수록 워프레인 연결 우선순위가 높다  <br/>  <br/>2. 수송품 드론 보너스 %를 늘리려면 같은 목적지 수송품을 한 곳에 모아두는 것이 좋다  <br/>- 50렙 행성들은 저장용량이 큰 편이라 수송품을 모아두는 역할에 딱이다  <br/>- 50렙 행성들에 워프레인허브 연결된 목적지들을 분배한다  <br/>- 참고로 행성의 수송품 최대 저장량은 수송품이 생산되는 최대량의 2배다 (50렙 가스행성은 40개 생산되므로 80개 저장가능)  <br/>  <br/>3. 워프레인허브 연결된 섹터가 아닌 곳으로 가는 수송품들은 몰아놓고 릴레이 혹은 직접 배달로 처리  <br/>  <br/>4. 교역정거장들은 행성에 최대한 가까이 붙여 수소를 절약할 것...!  <br/>- 안타깝게도 행성 있는 섹터 안쪽에는 들어갈 수 없어 섹터 끝에 최대한 붙여놓는 게 한계다  <br/>  <br/>5. 주황색 : 목적지 ID, 노란색 : 모아놓는 장소  <br/>    <br/><br/>
     <image src="./assets/20220218_Logistics_Strategy.png" align="center">
@@ -103,11 +108,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <image src="./assets/20211224_Lv6_Battleship.png" align="center">
   </details>
   <details>
-    <summary>Day 542 - Summoning_Great_Old_Ones</summary>
-    <br/>"위대한 옛 존재들을 깨우기 위한 소환진이 거의 완성되었다."  <br/><br/>
-    <image src="./assets/20211222_Summoning_Great_Old_Ones.png" align="center">
-  </details>
-  <details>
     <summary>Day 539 - TS_36_Ton_Cargo</summary>
     <br/>36톤 완성...!  <br/>이제 10적 2개씩 수송!  <br/><br/>
     <image src="./assets/20211219_TS_36_Ton_Cargo.png" align="center">
@@ -131,10 +131,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 520 - Private_RS_Event_Season_12</summary>
     <br/>비공개 적색성단 이벤트 시즌 12  <br/>혁명군 코퍼레이션 33위...!  <br/><br/>정말 순간적으로 메가콥이 된 느낌을 받을 수 있었다 :laughing:  <br/>무슨 9적 큐가 풀팟으로 계속 돌아가는지 ㅋㅋㅋㅋ  <br/><br/>
     <image src="./assets/20211130_Private_RS_Event_Season_12.png" align="center">
-  </details>
-  <details>
-    <summary>Day 520 - RS_Dart_Ship_Operation_Memo</summary>
-    <br/>최근 대형화포 + 다트런처 조합에 대해 고민해본 결과...  <br/>대포/복수함 외에는 재활용 모듈이 낭비라는 판단이 들었다  <br/>어차피 다트함은 난전 상황에서는 무기가 없는 함선과 똑같고 (소형화포보다 못한 존재)  <br/>복수 날려서 상황 다 정리된 다음 남은 덩치들 쪼개놓는 공격 전용이기에 몸빵할 일은 맞딜 시의 피닉 및 콜로 레이저 외엔 없어야한다  <br/>  <br/>주요 적들의 체력 + 실드를 보면 다음과 같다  <br/>스톰 : 40,000  <br/>피닉스 : 45,000 + 22,000  <br/>콜로서스 : 40,000 + 16,000  <br/>  <br/>1. 스톰 쪽 텔레포트 + 장벽으로 스톰 먼저 처리  <br/>2. 복수로 섹터 잡몹 정리 (대포함 피 전부 회복 + 피닉스 광역실드 제거)  <br/>3. 피닉스 쪽으로 이동 + 광실 켜서 첫 다트 격추 방지 (5렙 다트 8,000*2 = 16,000) + 1렙 오메가로켓 9,000 광역뎀 = 25,000 데미지  <br/>4. 피닉스 및 콜로 체력 모두 20,000 이하인 상태. 9렙 대형화포 10초 기준 2,100 + 16,000 = 18,100 데미지  <br/>  <br/>대충 6렙 다트 혹은 9렙 복수 업그레이드 시 쾌적한 섹터 정리가 가능할듯  <br/>물론 아무리 잘 운용해도 다트함들의 피격은 있기때문에 원격수기 모듈을 1개는 추가해야함  <br/>  <br/>실전에서 운용해보니 게임 끝나고 피 채우는 게 귀찮다는 점 외에는 꽤 괜찮음  <br/>추가적으로 5렙 재활용 모듈의 14.0/100AU * 2대분의 수소 소모를 절약...<br/>
   </details>
   <details>
     <summary>Day 518 - Lv10_Shipyard</summary>
