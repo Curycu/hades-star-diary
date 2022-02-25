@@ -54,12 +54,12 @@ for(a in 1:nrow(articles)){
   # change md links to html links : image src, a href tags 
   
   # e.g) ![](../assets/20201027_BS_Bond_Counter.png)
-  article.text <- article.text.raw %>% str_replace_all('\\!\\[.*?\\]\\(\\.', '<image src="')
-  article.text <- article.text %>% str_replace_all('(<image src=.*?\\.*?)(\\))', '\\1" align="center">')
+  article.text <- article.text.raw %>% str_replace_all('\\!\\[.*?\\]\\(\\.', '<img src="')
+  article.text <- article.text %>% str_replace_all('(<img src=.*?\\.*?)(\\))', '\\1" align="center">')
   
   # e.g) [youtube_video](https://youtu.be/TJeWz9vuZx8)
   article.text <- article.text %>% str_replace_all('\\[.*?\\]\\(', '<a href src="')
-  article.text <- article.text %>% str_replace_all('(<a href src=".*?)(\\))', '\\1">')
+  article.text <- article.text %>% str_replace_all('(<a href src=".*?)(\\))', '\\1"></a>')
   
   text.exists <- article.text != ''
   
