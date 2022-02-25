@@ -5,4 +5,4 @@
 
 [youtube video](https://www.youtube.com/watch?v=hoBCpJ7jJRs)  
 
-![](../assets/20210107_Discover_Planet_Opal.jpg)  
+![](../assets/20210107_Discover_Planet_Opal.png)  

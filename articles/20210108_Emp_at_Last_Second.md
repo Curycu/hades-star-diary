@@ -4,4 +4,4 @@
 
 [youtube video](https://www.youtube.com/watch?v=Is1tyYsdiUA)  
 
-![](../assets/20210108_Emp_at_Last_Second.jpg)  
+![](../assets/20210108_Emp_at_Last_Second.png)  
