@@ -14,7 +14,6 @@ for(p in packages.needed) require(p, character.only=TRUE)
 # write README.md ===============
 readme.file <- 'README.md'
 articles.dir <- 'articles'
-assets.dir <- 'assets'
 first.play.day <- '2020-06-29'
 
 readme.base <- 
@@ -32,10 +31,10 @@ write(readme.base, file=readme.file)
 
 articles <- 
   list.files(articles.dir) %>% 
-  tibble(file.name = .) %>% 
+  tibble(file.name = str_trim(.)) %>% 
   mutate(
     file.name.no.extension = file.name %>% str_remove('\\.md$'),
-    title = file.name.no.extension %>% str_remove('^\\d{8}') %>% str_remove('^_') %>% str_trim,
+    title = file.name.no.extension %>% str_remove('^\\d{8}_'),
     title = ifelse(title == '', 'No Title', title),
     date.str = paste(substring(file.name, 1, 4), substring(file.name, 5, 6), substring(file.name, 7, 8), sep='-')
   ) %>%
@@ -44,52 +43,32 @@ articles <-
 # append articles to README.md ===============
 for(a in 1:nrow(articles)){
   
+  article.file <- articles[a, "file.name"] %>% .[[1]]
+  
+  title <- articles[a, "title"] %>% .[[1]]
+  article.text.raw <- glue('./{articles.dir}/{article.file}') %>% readLines(encoding='UTF-8') %>% paste(collapse='<br/>')
+  
   date.str <- articles[a, "date.str"] %>% .[[1]]
   day.gap <- (as.Date(date.str) - as.Date(first.play.day) + 1) %>% as.integer
   
-  title <- articles[a, "title"] %>% .[[1]]
-  file.name.no.extension <- articles[a, 'file.name.no.extension'] %>% .[[1]]
+  # change md links to html links : image src, a href tags 
   
-  article.file <- articles[a, "file.name"] %>% .[[1]]
-  article.image.files <- list.files(assets.dir, file.name.no.extension)
+  # e.g) ![](../assets/20201027_BS_Bond_Counter.png)
+  article.text <- article.text.raw %>% str_replace_all('\\!\\[.*?\\]\\(\\.', '<image src="')
+  article.text <- article.text %>% str_replace_all('(<image src=.*?\\.*?)(\\))', '\\1" align="center">')
   
-  article.text.raw <- glue('./{articles.dir}/{article.file}') %>% readLines(encoding='UTF-8') %>% paste(collapse='<br/>')
-  
-  # remove redundant md image src, a href tags 
-  # e.g) <br/>![](../assets/20201027_BS_Bond_Counter.png)
-  # e.g) <br/>[youtube_video](https://youtu.be/TJeWz9vuZx8)<br/>
-  article.text <- article.text.raw %>% str_replace_all('(<br/>)?\\!+\\[.*?\\]\\(.*?\\)(<br/>)?', '') %>% str_trim
+  # e.g) [youtube_video](https://youtu.be/TJeWz9vuZx8)
+  article.text <- article.text %>% str_replace_all('\\[.*?\\]\\(', '<a href src="')
+  article.text <- article.text %>% str_replace_all('(<a href src=".*?)(\\))', '\\1">')
   
   text.exists <- article.text != ''
-  image.exists <- length(article.image.files) > 0
-  
-  image.html <- ''
-  if(image.exists){
-    image.html <- sapply(article.image.files, function(x) glue('<image src="./{assets.dir}/{x}" align="center">'))
-    image.html <- paste(image.html, collapse='<br/><br/>')
-  }
   
   article.html <- 
-    if(image.exists & text.exists){
+    if(text.exists){
       glue('
         <details>
           <summary>Day {day.gap} - {title}</summary>
           <br/>{article.text}<br/>
-          {image.html}
-        </details>
-      ')
-    }else if(!image.exists & text.exists){
-      glue('
-        <details>
-          <summary>Day {day.gap} - {title}</summary>
-          <br/>{article.text}<br/>
-        </details>
-      ')
-    }else if(image.exists & !text.exists){
-      glue('
-        <details>
-          <summary>Day {day.gap} - {title}</summary>
-          {image.html}
         </details>
       ')
     }else{
