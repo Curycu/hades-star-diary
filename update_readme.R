@@ -52,7 +52,6 @@ for(a in 1:nrow(articles)){
   day.gap <- (as.Date(date.str) - as.Date(first.play.day) + 1) %>% as.integer
   
   # change md links to html links : image src, a href tags 
-  
   # e.g) ![](../assets/20201027_BS_Bond_Counter.png)
   article.text <- article.text.raw %>% str_replace_all('\\!\\[.*?\\]\\(\\.', '<img src="')
   article.text <- article.text %>% str_replace_all('(<img src=.*?\\.*?)(\\))', '\\1" align="center">')
