@@ -8,6 +8,14 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 621 - Lv2_Mining_Drone</summary>
+    <br/>수소드론 2렙!  <br/>좀 더 듬직한 ㄷ으로 진화...!!  <br/>이젠 폭격기 미사일도 두방까지 버티는 맷집을 갖췄다 :joy:  <br/><br/><img src="./assets/20220311_Lv2_Mining_Drone.png" align="center">  <br/>
+  </details>
+  <details>
+    <summary>Day 620 - Colossus_in_Singularity</summary>
+    <br/>Interstellar in Hades' star :star2:  <br/><br/><img src="./assets/20220310_Colossus_in_Singularity.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 618 - Lv11_Time_Modulator</summary>
     <br/>타임모듈레이터 11렙 달성!  <br/>고향 항성계 전체 4배속! :zany_face:  <br/><br/><img src="./assets/20220308_Lv11_Time_Modulator.png" align="center">  <br/>
   </details>
