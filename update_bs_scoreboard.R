@@ -78,4 +78,3 @@ data %>%
     panel.grid.minor = element_blank(),
     legend.position = 'none'
   )
-
