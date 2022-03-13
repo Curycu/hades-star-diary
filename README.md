@@ -8,8 +8,12 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 623 - Credit_Cap_9M</summary>
+    <br/>9백만 클캡 달성! <br/>하지만 쓸모있는 클캡은 1천만 클캡부터임... :rolling_eyes:      <br/>언제 올리냐... 크흑... :expressionless:  <br/><br/><img src="./assets/20220313_Credit_Cap_9M.png" align="center">   <br/>
+  </details>
+  <details>
     <summary>Day 621 - Lv2_Mining_Drone</summary>
-    <br/>수소드론 2렙!  <br/>좀 더 듬직한 ㄷ으로 진화...!!  <br/>이젠 폭격기 미사일도 두방까지 버티는 맷집을 갖췄다 :joy:  <br/><br/><img src="./assets/20220311_Lv2_Mining_Drone.png" align="center">  <br/>
+    <br/>수소드론 2렙!  <br/>좀 더 듬직한 ㄷ으로 진화...!!  <br/>이젠 4,000 뎀 폭격기 미사일 두방 컷 맷집을 갖췄다 :joy:  <br/><br/><img src="./assets/20220311_Lv2_Mining_Drone.png" align="center">  <br/>
   </details>
   <details>
     <summary>Day 620 - Colossus_in_Singularity</summary>
