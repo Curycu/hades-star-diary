@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 629 - Lv10_Time_Warp</summary>
+    <br/>타임워프 드디어 10레벨!<br/>이제야 10적 돌 때 사람다운(?) 타임워프 속도가 나온다 :joy:  <br/>문제는... 수소소비량 1,000 :sob: 실화냐...  <br/><br/><img src="./assets/20220319_Lv10_Time_Warp.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 623 - Credit_Cap_9M</summary>
     <br/>9백만 클캡 달성! <br/>하지만 쓸모있는 클캡은 1천만 클캡부터임... :roll_eyes:      <br/>언제 올리냐... 크흑... :expressionless:  <br/><br/><img src="./assets/20220313_Credit_Cap_9M.png" align="center">   <br/>
   </details>
