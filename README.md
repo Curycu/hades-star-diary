@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 665 - Lv12_Corporation</summary>
+    <br/>유물 18% 콥으로 진화 :triumph:  <br/><br/><img src="./assets/20220424_Lv12_Corporation.png" align="center">  <br/> <br/>
+  </details>
+  <details>
     <summary>Day 657 - Artifact_Hunter</summary>
     <br/>유물사냥꾼 업적 달성! :gem:  <br/><br/><img src="./assets/20220416_Artifact_Hunter.png" align="center">  <br/>
   </details>
