@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 665 - Fame_50K</summary>
-    <br/>명성 5만 달성! :medal:   <br/><br/><img src="./assets/20220424_Fame_50K.png" align="center">  <br/>
+    <br/>명성 5만 달성! :medal_military:     <br/><br/><img src="./assets/20220424_Fame_50K.png" align="center">  <br/>
   </details>
   <details>
     <summary>Day 665 - Lv12_Corporation</summary>
