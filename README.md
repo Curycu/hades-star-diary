@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 665 - Fame_50K</summary>
+    <br/>명성 5만 달성! :medal:   <br/><br/><img src="./assets/20220424_Fame_50K.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 665 - Lv12_Corporation</summary>
     <br/>유물 18% 콥으로 진화 :triumph:  <br/><br/><img src="./assets/20220424_Lv12_Corporation.png" align="center">  <br/> <br/>
   </details>
