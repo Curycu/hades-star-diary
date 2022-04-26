@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 667 - Planet_Upgrade</summary>
+    <br/>첫 40렙 행성업 완료! :ringed_planet:   <br/><br/><img src="./assets/20220426_Planet_Upgrade.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 665 - Fame_50K</summary>
     <br/>명성 5만 달성! :medal_military:     <br/><br/><img src="./assets/20220424_Fame_50K.png" align="center">  <br/>
   </details>
