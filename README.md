@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 686 - Raging_Ancient_Anchovy_God</summary>
+    <br/>흔한 10적 금광 풍경 :  <br/>분노한 고대 멸치 신들의 습격 :rage:  <br/><br/><img src="./assets/20220515_Raging_Ancient_Anchovy_God.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 667 - Planet_Upgrade</summary>
     <br/>첫 40렙 행성업 완료! :ringed_planet:   <br/><br/><img src="./assets/20220426_Planet_Upgrade.png" align="center">  <br/>
   </details>
