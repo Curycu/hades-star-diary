@@ -8,8 +8,12 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 705 - Lv8_Barrier</summary>
+    <br/>장벽 8레벨 업!  <br/>광활해진 건 좋은데... 복수랑 크기가 똑같아서 고민 :innocent:  <br/>일단 복수 11렙 연구 시작...  <br/>조금만 참자...  <br/>  <br/><img src="./assets/20220603_Lv8_Barrier.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 699 - Dark_Nebula_Beta</summary>
-    <br/>Dark Nebula Beta  <br/>Steam으로 시작...!   <br/><br/>설정(톱니바퀴) > 속성 > 베타 > 코드입력  <br/><img src="./assets/20220528_Dark_Nebula_Beta_01.png" align="center"><br/><br/>약간의 다운로드 후... 뙇하고 다크네뷸라 오픈!  <br/><img src="./assets/20220528_Dark_Nebula_Beta_02.png" align="center"><br/><br/>함선... 들이 좀 맘에 안들게 변하고 구멍이(...) 나있고  <br/>일단 비쥬얼적으로는 매우 별로지만 =_=a... 해봅시다 한번...  <br/><img src="./assets/20220528_Dark_Nebula_Beta_03.png" align="center">  <br/>
+    <br/>Dark Nebula Beta  <br/>Steam으로 시작...!   <br/><br/>설정(톱니바퀴) > 속성 > 베타 > 코드입력  <br/>  <br/><img src="./assets/20220528_Dark_Nebula_Beta_01.png" align="center"><br/><br/>약간의 다운로드 후... 뙇하고 다크네뷸라 오픈!  <br/>  <br/><img src="./assets/20220528_Dark_Nebula_Beta_02.png" align="center"><br/><br/>함선... 들이 좀 맘에 안들게 변하고 구멍이(...) 나있고  <br/>일단 비쥬얼적으로는 매우 별로지만 =_=a... 해봅시다 한번...  <br/>  <br/><img src="./assets/20220528_Dark_Nebula_Beta_03.png" align="center">  <br/>
   </details>
   <details>
     <summary>Day 698 - TS_57_Ton_Cargo</summary>
