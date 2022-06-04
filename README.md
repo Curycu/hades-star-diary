@@ -21,7 +21,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
   </details>
   <details>
     <summary>Day 693 - Lv11_Shipment_Drone</summary>
-    <br/>수송품드론 11렙! :money_bag:  <br/>... 근데 만렙 업글은 자그마치 1,200만 클딧???  <br/>11적 가능한 클캡인데... 11적 가고나면 클딧 딱히 필요한가... :thinking:  <br/><br/><img src="./assets/20220522_Lv11_Shipment_Drone.png" align="center">  <br/>
+    <br/>수송품드론 11렙! :moneybag:  <br/>... 근데 만렙 업글은 자그마치 1,200만 클딧???  <br/>11적 가능한 클캡인데... 11적 가고나면 클딧 딱히 필요한가... :thinking:  <br/><br/><img src="./assets/20220522_Lv11_Shipment_Drone.png" align="center">  <br/>
   </details>
   <details>
     <summary>Day 692 - Credit_Cap_10M</summary>
