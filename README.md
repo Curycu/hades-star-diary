@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 708 - Lv11_Vengeance</summary>
+    <br/>복수 11렙!  <br/>275AU에 뿌리는 22K의 광역데미지 :heart_eyes:  <br/>취한다... :beers:  <br/>  <br/><img src="./assets/20220606_Lv11_Vengeance.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 705 - Lv8_Barrier</summary>
     <br/>장벽 8레벨 업!  <br/>광활해진 건 좋은데... 복수랑 크기가 똑같아서 고민 :innocent:  <br/>일단 복수 11렙 연구 시작...  <br/>조금만 참자...  <br/>  <br/><img src="./assets/20220603_Lv8_Barrier.png" align="center"><br/>
   </details>
