@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 717 - Lv6_Dart_Launcher</summary>
+    <br/>다트런처 6렙!  <br/>이제 9,000 뎀으로 치킨함도 한방 :chicken:   <br/>  <br/><img src="./assets/20220615_Lv6_Dart_Launcher.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 708 - Lv11_Vengeance</summary>
     <br/>복수 11렙!  <br/>275AU에 뿌리는 22K의 광역데미지 :heart_eyes:  <br/>취한다... :beers:  <br/>  <br/><img src="./assets/20220606_Lv11_Vengeance.png" align="center"><br/>
   </details>
