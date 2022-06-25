@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 728 - Lv13_Corporation</summary>
+    <br/>이제 콥 유물 20% 보너스!!!  <br/>다... 이루었다... :heart_eyes:   <br/>  <br/><img src="./assets/20220626_Lv13_Corporation.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 728 - Lv7_Dart_Launcher</summary>
     <br/>다트런처 7렙 :sunglasses:  <br/>만렙 전함도 이젠 한방에 :wave:     <br/>  <br/><img src="./assets/20220626_Lv7_Dart_Launcher.png" align="center"><br/>
   </details>
