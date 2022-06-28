@@ -8,16 +8,16 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 730 - Lv222</summary>
+    <br/>레벨 222... 딱 좋은 콩 레벨!  <br/>레벨 222... 딱 좋은 콩 레벨!  <br/>  <br/><img src="./assets/20220628_Lv222.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 730 - Private_RS_Event_Season_14</summary>
     <br/>비공개 적색성단 이벤트 시즌 14  <br/>혁명군 코퍼레이션 37위!  <br/><br/>이번 시즌에는 종료 2시간 전에 이미 30위 초반대에 안착해서 버티는 느낌이었음 :thinking:  <br/>콥이 승급하는만큼 콥원분들도 고여서 :oil_drum:  <br/>  <br/><img src="./assets/20220628_Private_RS_Event_Season_14.png" align="center"><br/>
   </details>
   <details>
     <summary>Day 728 - Lv13_Corporation</summary>
     <br/>이제 콥 유물 20% 보너스!!!  <br/>다... 이루었다... :heart_eyes:   <br/>  <br/><img src="./assets/20220626_Lv13_Corporation.png" align="center"><br/>
-  </details>
-  <details>
-    <summary>Day 728 - Lv222</summary>
-    <br/>레벨 222... 딱 좋은 콩 레벨!  <br/>레벨 222... 딱 좋은 콩 레벨!  <br/>  <br/><img src="./assets/20220626_Lv222.png" align="center"><br/>
   </details>
   <details>
     <summary>Day 728 - Lv7_Dart_Launcher</summary>
