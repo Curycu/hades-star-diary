@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 745 - Lv9_Dart_Launcher</summary>
+    <br/>다트런처 9레벨 :sunglasses:  <br/>드디어 가장 강력한 휴먼- 인텔리전스 외톨이전함으로 거듭났다...  <br/>  <br/><img src="./assets/20220713_Lv9_Dart_Launcher.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 738 - Lv8_Dart_Launcher</summary>
     <br/>다트런처 8렙...  <br/>이제 참치초밥이든 갑오징어든 살살 녹는게 눈에 보인다 :muscle:  <br/>  <br/><img src="./assets/20220706_Lv8_Dart_Launcher.png" align="center"><br/>
   </details>
