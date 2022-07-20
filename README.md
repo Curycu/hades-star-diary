@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 752 - Lv6_Transport</summary>
+    <br/>수송선 6렙 만렙!  <br/>이제 모든 함선의 최종 진화버전에 도달...  <br/>60톤이니 이제 15톤 짜리 9적을 4개씩 싣고 갈 수 있다  <br/>... 9적 많이 돌아야하나... :rofl:  <br/>  <br/><img src="./assets/20220720_Lv6_Transport.png" align="center"><br/>
+  </details>
+  <details>
     <summary>Day 745 - Lv9_Dart_Launcher</summary>
     <br/>다트런처 9레벨 :sunglasses:  <br/>드디어 가장 강력한 휴먼- 인텔리전스 외톨이전함으로 거듭났다...  <br/>  <br/><img src="./assets/20220713_Lv9_Dart_Launcher.png" align="center"><br/>
   </details>
