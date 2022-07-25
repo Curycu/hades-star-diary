@@ -8,6 +8,10 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 757 - Lv5_Alpha_Shield</summary>
+    <br/>알실 만렙... :rofl:  <br/>  <br/><img src="./assets/20220725_Lv5_Alpha_Shield.png" align="center">  <br/>
+  </details>
+  <details>
     <summary>Day 755 - Lv10_Dart_Launcher</summary>
     <br/>다트 10렙... 외톨이전함의 한계를 돌파하다 :sunglasses:  <br/>  <br/><img src="./assets/20220723_Lv10_Dart_Launcher.png" align="center">  <br/>
   </details>
