@@ -43,12 +43,12 @@ articles <-
 # append articles to README.md ===============
 for(a in 1:nrow(articles)){
   
-  article.file <- articles[a, "file.name"] %>% .[[1]]
+  article.file <- articles[a, "file.name"] %>% pull
   
-  title <- articles[a, "title"] %>% .[[1]]
+  title <- articles[a, "title"] %>% pull
   article.text.raw <- glue('./{articles.dir}/{article.file}') %>% readLines(encoding='UTF-8') %>% paste(collapse='<br/>')
   
-  date.str <- articles[a, "date.str"] %>% .[[1]]
+  date.str <- articles[a, "date.str"] %>% pull
   day.gap <- (as.Date(date.str) - as.Date(first.play.day) + 1) %>% as.integer
   
   # change md links to html links : image src, a href tags 
