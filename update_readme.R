@@ -1,7 +1,7 @@
 rm(list=ls())
 
 # initial setting ===============
-packages.needed <- c('dplyr', 'stringr', 'glue')
+packages.needed <- c('dplyr', 'stringr', 'glue', 'stringi')
 packages.installed <- rownames(installed.packages())
 packages.not.installed <- packages.needed[!packages.needed %in% packages.installed]
 
@@ -26,8 +26,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 [Discord for KR users](http://discord.gg/TR5CJ2p)
 
 # Table of Contents"
-
-write(readme.base, file=readme.file)
 
 articles <- 
   list.files(articles.dir) %>% 
@@ -70,5 +68,8 @@ for(a in 1:nrow(articles)){
       glue('- Day {day.gap} - {title}')
     }
   
-  article.html %>% write(file=readme.file, append=TRUE)
+  readme.base <- 
+    paste0(readme.base, article.html, collapse='\n') 
 }
+
+readme.base %>% stri_write_lines(readme.file)
