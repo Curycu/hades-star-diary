@@ -6,7 +6,8 @@
 Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_planet:  
 [Discord for KR users](http://discord.gg/TR5CJ2p)
 
-# Table of Contents  <details>
+# Table of Contents
+  <details>
     <summary>Day 757 - Lv5_Alpha_Shield</summary>
     <br/>알실 만렙... :rofl:  <br/>  <br/><img src="./assets/20220725_Lv5_Alpha_Shield.png" align="center">  <br/>
   </details>  <details>
