@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 799 - Lv10_Red_Star_Life_Extender</summary>
+    <br/>적성생명연장의 꿈... 드디어 만렙!<br/>  <br/><img src="./assets/20220905_Lv10_Red_Star_Life_Extender.png" align="center">  <br/>
+  </details>  <details>
     <summary>Day 757 - Lv5_Alpha_Shield</summary>
     <br/>알실 만렙... :rofl:  <br/>  <br/><img src="./assets/20220725_Lv5_Alpha_Shield.png" align="center">  <br/>
   </details>  <details>
