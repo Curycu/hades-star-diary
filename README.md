@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 818 - Lv8_Bond</summary>
+    <br/>끈 8렙!  <br/>도대체 어디까지 길어지는 것인가... :hand_over_mouth:  <br/>  <br/><img src="./assets/20220924_Lv8_Bond.png" align="center"><br/>
+  </details>  <details>
     <summary>Day 799 - Lv10_Red_Star_Life_Extender</summary>
     <br/>적성생명연장의 꿈... 드디어 만렙!<br/>  <br/><img src="./assets/20220905_Lv10_Red_Star_Life_Extender.png" align="center">  <br/>
   </details>  <details>
