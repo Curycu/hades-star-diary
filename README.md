@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 826 - Steward</summary>
+    <br/>사무장 업적 완료! :moneybag: :gem:  <br/>백색성단 유물 셔틀 업적 완수... :sunglasses:    <br/><br/><img src="./assets/20221002_Steward.png" align="center">  <br/> <br/>
+  </details>  <details>
     <summary>Day 818 - Lv8_Bond</summary>
     <br/>끈 8렙!  <br/>도대체 어디까지 길어지는 것인가... :hand_over_mouth:  <br/>  <br/><img src="./assets/20220924_Lv8_Bond.png" align="center"><br/>
   </details>  <details>
