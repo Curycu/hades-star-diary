@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 828 - Hydro_Cap_400K</summary>
+    <br/>수소 캡 400K 돌파! :chart_with_upwards_trend:  <br/><br/><img src="./assets/20221004_Hydro_Cap_400K.png" align="center">   <br/>
+  </details>  <details>
     <summary>Day 826 - Steward</summary>
     <br/>사무장 업적 완료! :moneybag: :gem:  <br/>백색성단 유물 셔틀 업적 완수... :sunglasses:    <br/><br/><img src="./assets/20221002_Steward.png" align="center">  <br/> <br/>
   </details>  <details>
@@ -257,8 +260,8 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 412 - Lv9_Trade_Station</summary>
     <br/>교역정거장 9렙 완공!  <br/><br/><img src="./assets/20210814_Lv9_Trade_Station.png" align="center">  <br/>
   </details>  <details>
-    <summary>Day 399 - Hydro_Cap_30K</summary>
-    <br/>수소캡 30만 달성!  <br/><br/><img src="./assets/20210801_Hydro_Cap_30K.png" align="center">   <br/>
+    <summary>Day 399 - Hydro_Cap_300K</summary>
+    <br/>수소캡 30만 달성!  <br/><br/><img src="./assets/20210801_Hydro_Cap_300K.png" align="center">   <br/>
   </details>  <details>
     <summary>Day 393 - Warp_Lane_Hub_6M</summary>
     <br/>6M 워프레인허브 완공!  <br/>스페이스 나스카 문양을 완성해가고 있다... :star_struck:  <br/><br/><img src="./assets/20210726_Warp_Lane_Hub_6M.png" align="center">   <br/>
