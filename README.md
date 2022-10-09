@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 833 - Space_Naska</summary>
+    <br/>완성된 수소 아트 :six_pointed_star:  <br/><br/><img src="./assets/20221009_Space_Naska.png" align="center">   <br/>
+  </details>  <details>
     <summary>Day 828 - Hydro_Cap_400K</summary>
     <br/>수소 캡 400K 돌파! :chart_with_upwards_trend:  <br/><br/><img src="./assets/20221004_Hydro_Cap_400K.png" align="center">   <br/>
   </details>  <details>
