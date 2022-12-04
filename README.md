@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 890 - Last_Second_Escape</summary>
+    <br/>1초 차이로 전부 생존... 이 무슨 타이밍 ㅋㅋㅋ  <br/><br/><img src="./assets/20221205_Last_Second_Escape.png" align="center">   <br/>
+  </details>  <details>
     <summary>Day 858 - Lv10_Hydrogen_Bay_Extension</summary>
     <br/>채굴함 수소창고 만렙!  <br/><br/><img src="./assets/20221103_Lv10_Hydrogen_Bay_Extension.png" align="center">   <br/>
   </details>  <details>
