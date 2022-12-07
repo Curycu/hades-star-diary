@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 892 - Lv10_Teleport</summary>
+    <br/>텔레포트 10레벨!! 다른 우주도 갈 기세...   <br/><br/><img src="./assets/20221207_Lv10_Teleport.png" align="center">   <br/>
+  </details>  <details>
     <summary>Day 890 - Last_Second_Escape</summary>
     <br/>1초 차이로 전부 생존... 이 무슨 타이밍 ㅋㅋㅋ  <br/><br/><img src="./assets/20221205_Last_Second_Escape.png" align="center">   <br/>
   </details>  <details>
