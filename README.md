@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 923 - Ready_for_RS11</summary>
+    <br/>11적 진입 전 준비 중...  <br/>안식처를 빼고 무한 전함 투입으로 스타일이 변경되므로  <br/>청색성단스캐너를 전함 제작 템플릿으로 삼았다.  <br/>  <br/>왜 때문에 함선제작소에서 이런 템플릿 기능을 제공하지 않는건가 싶지만...  <br/>뭐 그런게 한두개여야지 원 :joy:  <br/>  <br/><img src="./assets/20230107_Ready_for_RS11.png" align="center">   <br/>
+  </details>  <details>
     <summary>Day 893 - Orb_Graduate</summary>
     <br/>무기, 실드 졸업! <br/>이제 모든 구체는 갈갈행... <br/><br/><img src="./assets/20221208_Orb_Graduate.png" align="center">   <br/>
   </details>  <details>
