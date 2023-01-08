@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 924 - First_RS11</summary>
+    <br/><img src="./assets/20230108_First_RS11_01.png" align="center">  <br/><img src="./assets/20230108_First_RS11_02.png" align="center">  <br/><br/>플레이 924일만에 최종장에 다다랐다.  <br/>악명 높은 전함 히드라를 상대로 안식처 모듈 없이 플레이하므로 300만+ 크레딧을 쟁여뒀고  <br/>중간에 연료부족사태를 막기 위해 20만+ 수소를 채워 민폐 안끼치기 위한 솔로 플레이로 시작...    <br/><br/>다행히도 1행만 따로 떨어진 섹터가 있었고 (초심자의 행운?) 심지어 달달한 테트라 유물~!  <br/><br/><img src="./assets/20230108_First_RS11_03.png" align="center">    <br/><br/>터진 함선 없이 무사히 1행 성공!  <br/><br/><img src="./assets/20230108_First_RS11_04.png" align="center">    <br/><br/>[youtube video](https://youtu.be/Dw7HvsXfxcU)    <br/>  <br/>
+  </details>  <details>
     <summary>Day 923 - Ready_for_RS11</summary>
     <br/>11적 진입 전 준비 중...  <br/>안식처를 빼고 무한 전함 투입으로 스타일이 변경되므로  <br/>청색성단스캐너를 전함 제작 템플릿으로 삼았다.  <br/>  <br/>왜 때문에 함선제작소에서 이런 템플릿 기능을 제공하지 않는건가 싶지만...  <br/>뭐 그런게 한두개여야지 원 :joy:  <br/>  <br/><img src="./assets/20230107_Ready_for_RS11.png" align="center">   <br/>
   </details>  <details>
