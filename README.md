@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 932 - RS11_Double_Planet_Solo_Clear</summary>
+    <br/>이제 제법 익숙해진 11적... 혼자 2행 가능 :muscle:  <br/>  <br/><img src="./assets/20230116_RS11_Double_Planet_Solo_Clear.png" align="center">      <br/>
+  </details>  <details>
     <summary>Day 924 - First_RS11</summary>
     <br/><img src="./assets/20230108_First_RS11_01.png" align="center">  <br/><img src="./assets/20230108_First_RS11_02.png" align="center">  <br/><br/>플레이 924일만에 최종장에 다다랐다.  <br/>악명 높은 전함 히드라를 상대로 안식처 모듈 없이 플레이하므로 300만+ 크레딧을 쟁여뒀고  <br/>중간에 연료부족사태를 막기 위해 20만+ 수소 & 민폐 방지를 위한 솔로 플레이로 시작...    <br/><br/>다행히도 1행만 따로 떨어진 섹터가 있었고 (초심자의 행운?) 심지어 달달한 테트라 유물~! :heart_eyes:    <br/><br/><img src="./assets/20230108_First_RS11_03.png" align="center">    <br/><br/>터진 함선 없이 무사히 1행 성공!  <br/><br/><img src="./assets/20230108_First_RS11_04.png" align="center">    <br/><br/>[youtube video](https://youtu.be/Dw7HvsXfxcU)    <br/>  <br/>
   </details>  <details>
