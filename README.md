@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 945 - RS11_Full_Clear</summary>
+    <br/>첫 11적 풀클리어! 메가콥 The Collective 에서 4/4 진행 :muscle:  <br/>  <br/><img src="./assets/20230129_RS11_Full_Clear.png" align="center"><br/>
+  </details>  <details>
     <summary>Day 939 - RS11_Quad_Planet_Duet_Clear</summary>
     <br/>아몰라님과 11적 2인 4행 완료...!  <br/>언젠가 풀행도 가능하겠지... :muscle:  <br/>  <br/><img src="./assets/20230123_RS11_Quad_Planet_Duet_Clear.png" align="center"><br/>
   </details>  <details>
