@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 951 - Lv12_Time_Warp</summary>
-    <br/>타임워프 만렙! :hourglass:  <br/>  <br/><img src="./assets/20230204_Lv12_Time_Warp" align="center">  <br/>
+    <br/>타임워프 만렙! :hourglass:  <br/>  <br/><img src="./assets/20230204_Lv12_Time_Warp.png" align="center">  <br/>
   </details>  <details>
     <summary>Day 945 - RS11_Full_Clear</summary>
     <br/>첫 11적 풀클리어! 메가콥 The Collective 에서 4/4 진행 :muscle:  <br/>  <br/><img src="./assets/20230129_RS11_Full_Clear.png" align="center">  <br/><br/>[youtube video](https://youtu.be/1pwK482HviU)  <br/>
