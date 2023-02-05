@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 952 - Total_Time_to_Each_RS_Level</summary>
+    <br/>짧은 졸업 감상... :skull:  <br/>  <br/><img src="./assets/20230205_Total_Time_to_Each_RS_Level.png" align="center">  <br/>
+  </details>  <details>
     <summary>Day 951 - Lv12_Time_Warp</summary>
     <br/>타임워프 만렙! :hourglass:  <br/>  <br/><img src="./assets/20230204_Lv12_Time_Warp.png" align="center">  <br/>
   </details>  <details>
