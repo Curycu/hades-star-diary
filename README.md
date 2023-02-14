@@ -9,7 +9,7 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 # Table of Contents
   <details>
     <summary>Day 961 - Lv12_Vengeance</summary>
-    <br/>발렌타이데이 기념 달콤한 복수 만렙 :heart_eyes:  <br/>  <br/><img src="./assets/20230214_Lv12_Vengeance.png" align="center">  <br/>
+    <br/>발렌타인데이 기념 달콤한 복수 만렙 :heart_eyes:  <br/>  <br/><img src="./assets/20230214_Lv12_Vengeance.png" align="center">  <br/>
   </details>  <details>
     <summary>Day 952 - Total_Time_to_Each_RS_Level</summary>
     <br/>짧은 졸업 감상... :skull:  <br/>  <br/><img src="./assets/20230205_Total_Time_to_Each_RS_Level.png" align="center">  <br/>
