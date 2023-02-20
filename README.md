@@ -242,9 +242,6 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
     <summary>Day 497 - Lv5_Dart_Launcher</summary>
     <br/>다트 런처 5렙... 이제 인셉도 한방 :innocent:  <br/>치킨함 한방까지는 앞으로 1렙... :coffin:  <br/>청성 다음 시즌을 위한 모든 준비가 끝났다 :smirk:  <br/><br/><img src="./assets/20211107_Lv5_Dart_Launcher.png" align="center">  <br/>
   </details>  <details>
-    <summary>Day 495 - RS9_Never_End</summary>
-    <br/>대충 9적 길다는 짤  <br/><br/><img src="./assets/20211105_RS9_Never_End.png" align="center">  <br/>
-  </details>  <details>
     <summary>Day 491 - Ship_Naming</summary>
     <br/>함선들 이름으로 제법 마음에 드는 컨셉을 잡았다...  <br/><br/>백성은 성과에 따라 크레딧이 달라지니 스톡옵션  <br/>청성은 성과내면 크레딧이 들어오니 인센티브  <br/>수송이는 꾸준히 수입을 내니 샐러리  <br/>채굴이는 연료니까 커피 :coffee:  <br/><br/>적성 대포 & 복수는 덩어리만 남기고 싹 걸러주니까 필터  <br/>적성 다트 & 블실 & 장벽은 핵심이니까 코어  <br/>적성 다트 & 타임워프는 있으면 편리하니 포매터 :laughing:  <br/><br/><img src="./assets/20211101_Ship_Naming.png" align="center">  <br/>
   </details>  <details>
