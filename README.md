@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 981 - Fame_60K</summary>
+    <br/>명성 6만 달성! :medal_military:     <br/><br/><img src="./assets/20230306_Fame_60K.png" align="center">  <br/>
+  </details>  <details>
     <summary>Day 961 - Lv12_Vengeance</summary>
     <br/>발렌타인데이 기념 달콤한 복수 만렙 :heart_eyes:  <br/>  <br/><img src="./assets/20230214_Lv12_Vengeance.png" align="center">  <br/>
   </details>  <details>
