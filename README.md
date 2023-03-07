@@ -8,6 +8,9 @@ Diary for [Hades' Star](https://store.steampowered.com/app/755800) :ringed_plane
 
 # Table of Contents
   <details>
+    <summary>Day 982 - Lv10_Barrier</summary>
+    <br/>장벽 10렙! 복수 만렙과 같은 어마어마한 범위... :open_mouth:   <br/>시간도 꽤 길어져서 스톰 다트 모았다 터쳐서 죽는 빈도가 줄었다  <br/><br/><img src="./assets/20230307_Lv10_Barrier.png" align="center">  <br/>
+  </details>  <details>
     <summary>Day 981 - Fame_60K</summary>
     <br/>명성 6만 달성! :medal_military:     <br/><br/><img src="./assets/20230306_Fame_60K.png" align="center">  <br/>
   </details>  <details>
